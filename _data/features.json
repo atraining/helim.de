@@ -1,7 +1,7 @@
 [
   {
-    "title": "Strukturierte Bearbeitung",
-    "description": "Ihr Anliegen wird erfasst und bearbeitet. Rückmeldung erfolgt zeitnah - die Lösung kann Zeit erfordern.",
+    "title": "Wir helfen Ihnen",
+    "description": "Sie schreiben uns Ihr Problem. Wir antworten in 24 Stunden. Manche Probleme brauchen Zeit zum Lösen.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Mehrsprachige Informationen",
-    "description": "Übersetzungsfunktion oben rechts verfügbar. Klare Kommunikation ist für eine Lösung wichtig.",
+    "title": "Viele Sprachen",
+    "description": "Klicken Sie oben auf 🌍 SPRACHE. Dann können Sie Ihre Sprache wählen. Die Seite wird übersetzt.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Klare Kommunikationswege",
-    "description": "Kontakt über definierte Kanäle. Vollständige Informationen beschleunigen die Bearbeitung.",
+    "title": "Einfacher Kontakt",
+    "description": "Sagen Sie uns: Was ist das Problem? Wo ist es? Seit wann? Dann können wir schneller helfen.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
