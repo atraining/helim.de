@@ -25,7 +25,7 @@ Wenn Tonne voll und Sonderabholung kommt:
 Jedes Mal!
 
 **Was Sie machen müssen:**
-- **Müll richtig trennen!** [Hier lesen wie → Müll richtig trennen](/services/muell-entsorgung/)
+- **Müll richtig trennen!** [Hier lesen wie → Müll richtig trennen](/anliegen/muell-entsorgung/)
 - Nur eigenen Müll in Tonne
 - Nicht zu viel Müll
 - **Falsch getrennt = Teuer für ALLE!**

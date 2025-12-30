@@ -43,7 +43,6 @@ weight: 2
 - Viel kochen (viel Dampf!)
 - Oft duschen/baden
 - Viele Personen in der Wohnung
-- Wäsche in der Wohnung trocknen
 
 **Warum?**
 - Kochen = Dampf in der Luft
@@ -63,9 +62,9 @@ weight: 2
 - Luft muss zirkulieren können
 
 **Wäsche trocknen:**
-- Nur bei offenem Fenster
-- Besser: Draußen oder im Keller
-- Nicht im geschlossenen Raum
+- NICHT in der Wohnung!
+- Nur draußen oder im Keller (wenn erlaubt)
+- Wäsche in der Wohnung trocknen ist verboten!
 
 ---
 
