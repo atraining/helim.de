@@ -30,6 +30,20 @@
           }
         }
       }
+      &#google_translate_element {
+        padding: 0;
+        margin-left: 10px;
+        .goog-te-gadget {
+          font-size: 0;
+          line-height: 0;
+        }
+        .goog-te-gadget-simple {
+          border: none;
+          background-color: transparent;
+          padding: 5px 10px;
+          font-size: 0.9rem;
+        }
+      }
     }
   }
 }
