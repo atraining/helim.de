@@ -7,7 +7,17 @@ function googleTranslateElementInit() {
     autoDisplay: false
   }, 'google_translate_element');
 
-  // Mobile version
+  // Mobile header version (always visible)
+  if (document.getElementById('google_translate_mobile_header')) {
+    new google.translate.TranslateElement({
+      pageLanguage: 'de',
+      includedLanguages: '',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_mobile_header');
+  }
+
+  // Mobile menu version
   if (document.getElementById('google_translate_element_mobile')) {
     new google.translate.TranslateElement({
       pageLanguage: 'de',
