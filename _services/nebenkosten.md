@@ -33,10 +33,35 @@ Die 600 Euro werden dann aufgeteilt:
 - 500 Euro gehen an den Vermieter (für die Wohnung)
 - 100 Euro werden gespart (für Wasser, Heizung, Müll)
 
-**Wichtig:**
-Sie machen nur EINE Überweisung!
-Nicht zwei!
-Aber auf dem Kontoauszug steht "Miete + Nebenkosten" oder "Warmmiete".
+## Wie fülle ich die Überweisung aus?
+
+**Sie machen nur EINE Überweisung pro Monat!**
+
+**So füllen Sie die Überweisung aus:**
+
+1. **Betrag:** Ihre Warmmiete (z.B. 600 Euro)
+
+2. **Verwendungszweck:** WICHTIG!
+   Schreiben Sie Ihre Wohnungslage:
+
+   **Beispiele:**
+   - "Erdgeschoss links"
+   - "1. OG rechts" (1. Obergeschoss = 1. Etage)
+   - "2. OG Mitte"
+   - "Dachgeschoss"
+
+3. **Empfänger:** Die Kontonummer von uns (steht im Mietvertrag)
+
+**Warum ist der Verwendungszweck wichtig?**
+
+Im Haus gibt es viele Wohnungen.
+Wir müssen wissen: Welche Wohnung hat bezahlt?
+
+Ihr Name steht schon auf dem Konto.
+→ Wir brauchen nur die Wohnungslage!
+
+**Falsch:** ❌ "Miete" oder nur "600 Euro"
+**Richtig:** ✅ "Erdgeschoss links" oder "1. OG rechts"
 
 ## Warum jeden Monat bezahlen?
 
