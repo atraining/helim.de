@@ -1,12 +1,10 @@
 ---
-title: Services
+title: Häufige Anliegen
 layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+description: Informationen zu häufigen Anliegen unserer Mieter
+intro_image: false
 ---
 
-# Services that grow with your business
+# Häufige Anliegen
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Hier finden Sie Informationen und Hilfe zu den häufigsten Anliegen. Klicken Sie auf ein Thema für Details.

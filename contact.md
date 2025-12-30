@@ -1,16 +1,21 @@
 ---
-title: Contact
+title: Kontakt
 layout: contact
-description: Contact
+description: Kontaktformular für Ihre Anliegen
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## Kontaktieren Sie uns
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Bitte nutzen Sie dieses Formular für Ihre Anliegen. Wir melden uns innerhalb von 24 Stunden bei Ihnen.
+
+**Wichtig:** Bei Notfällen (Rohrbruch, Heizungsausfall im Winter, Gasgeruch) rufen Sie bitte direkt an!
+
+---
+
+## Kontaktdaten
+
+**Email:** [info@helim.de](mailto:info@helim.de)
+**Telefon:** [01634314960](tel:01634314960)
+
+**Notfall-Hotline:** [01634314960](tel:01634314960)
+(Nur für echte Notfälle: Rohrbruch, Heizungsausfall im Winter, Gasgeruch)

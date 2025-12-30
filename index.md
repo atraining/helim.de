@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: helim.de - Ihre Hausverwaltung
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+description: Informationen und Hilfe für Mieter - Schnell und unkompliziert zu Ihren Anliegen
+intro_image: false
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Wie können wir Ihnen helfen?
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Finden Sie schnell die passende Information zu Ihrem Anliegen in den Kategorien unten.
+
+**Bei Notfällen** (Rohrbruch, Heizungsausfall im Winter, Gasgeruch) rufen Sie bitte direkt an.
