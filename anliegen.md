@@ -3,6 +3,7 @@ title: Häufige Anliegen
 layout: services
 description: Informationen zu häufigen Anliegen unserer Mieter
 intro_image: false
+permalink: /anliegen/
 ---
 
 # Häufige Anliegen

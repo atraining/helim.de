@@ -1,6 +1,6 @@
 main:
   - name: "Anliegen"
-    url: "/services/"
+    url: "/anliegen/"
     weight: 2
   - name: "Kontakt"
     url: "/contact/"
