@@ -35,27 +35,33 @@ weight: 2
 
 **Richtig heizen:**
 
-**Diese Temperaturen MÜSSEN Sie einhalten (Gesetz!):**
+**Wichtig: Immer warm genug heizen!**
 
-- **Wohnzimmer und Küche: 20-22°C**
-- **Badezimmer: 21-23°C**
-- **Schlafzimmer: mindestens 18°C**
-- **Nachts (23-6 Uhr): mindestens 18°C**
+**Drehknopf an der Heizung (die Zahlen 1-5):**
 
-**Warum so warm?**
-- Kalte Wand + Feuchtigkeit = Schimmel!
-- Sie kochen → Dampf in der Luft
-- Sie duschen → Dampf in der Luft
-- Sie atmen → Feuchtigkeit in der Luft
-- Wenn Wand kalt ist: Wasser sammelt sich → Schimmel wächst!
+- **Wohnzimmer und Küche: Stufe 3** (oder 4 wenn kalt)
+- **Badezimmer: Stufe 3 oder 4**
+- **Schlafzimmer: Stufe 2-3**
+- **NIEMALS unter Stufe 2!**
 
-**Heizperiode:**
-- **1. Oktober bis 30. April:** Heizung muss funktionieren
-- Außerhalb: Wenn es draußen kalt ist (unter 12°C), Heizung anmachen
+**Wie prüfen ob warm genug?**
+- Es muss warm sein im Zimmer
+- Sie brauchen keinen dicken Pullover
+- Sie frieren nicht
+- Wände sind nicht eiskalt wenn Sie anfassen
+
+**Warum warm heizen?**
+- Kalte Wand + Dampf (vom Kochen/Duschen) = Schimmel!
+- Schimmel = Sie müssen bezahlen!
+- Viel Geld! (2.000 Euro oder mehr!)
+
+**Wann heizen? (Winter)**
+- Oktober bis April: Immer heizen!
+- Auch wenn Sie nicht da sind: Heizung auf Stufe 2!
+- Heizung ganz aus = Schimmel = teuer!
 
 **Wichtig:**
-Diese Temperaturen stehen im Gesetz!
-Wenn Sie weniger heizen → Schimmel → Sie zahlen Reparatur!
+Zu wenig heizen = Schimmel wächst = Sie zahlen Reparatur!
 
 **Möbel richtig stellen:**
 - Mindestens 5cm Abstand zur Wand

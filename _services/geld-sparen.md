@@ -17,10 +17,11 @@ Sie können viel Geld sparen!
 ## Weniger Nebenkosten bezahlen
 
 **Heizung richtig nutzen:**
-- **Wohnzimmer/Küche: 20-22°C** (Gesetz!)
-- **Bad: 21-23°C** (Gesetz!)
-- **Schlafzimmer: mindestens 18°C** (Gesetz!)
-- NICHT weniger heizen → sonst [Schimmel](/anliegen/schimmel/) → Sie zahlen!
+- **Heizung auf Stufe 3** (der Drehknopf mit Zahlen 1-5)
+- **Im Bad: Stufe 3 oder 4**
+- **Schlafzimmer: mindestens Stufe 2**
+- **NIEMALS unter Stufe 2!**
+- Zu wenig heizen → [Schimmel](/anliegen/schimmel/) → Sie zahlen viel Geld!
 - Fenster zu beim Heizen
 - Stoßlüften statt Fenster kippen
 - **→ Sie sparen beim Strom: 100-200 Euro pro Jahr!**
@@ -165,9 +166,9 @@ Sie bekommen die Kaution zurück, wenn:
 ## Zusammenfassung: So sparen Sie Geld
 
 **1. Richtig verbrauchen:**
-- Richtig heizen (20-22°C Wohnzimmer, 18°C Schlafzimmer)
-- NICHT zu wenig heizen (sonst Schimmel = teuer!)
-- Weniger Wasser
+- Richtig heizen (Stufe 3 Wohnzimmer, Stufe 2-3 Schlafzimmer)
+- NICHT zu wenig heizen (sonst Schimmel = sehr teuer!)
+- Weniger Wasser verbrauchen
 - **→ Sparen: 200-300 Euro pro Jahr**
 
 **2. Probleme sofort melden:**

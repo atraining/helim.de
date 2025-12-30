@@ -142,10 +142,10 @@ Wenn Sie nicht aufpassen, wird es teuer.
 **So bekommen Sie Geld zurück:**
 
 1. **Richtig heizen (nicht zu wenig!)**
-   - Wohnzimmer: 20-22°C
-   - Bad: 21-23°C
-   - Schlafzimmer: mindestens 18°C
-   - Weniger = [Schimmel](/anliegen/schimmel/) = Sie zahlen!
+   - Heizung auf Stufe 3 (die Zahlen am Drehknopf)
+   - Im Bad: Stufe 3 oder 4
+   - NIEMALS unter Stufe 2!
+   - Zu wenig = [Schimmel](/anliegen/schimmel/) = Sie zahlen!
    - Fenster zu beim Heizen
    - Mehr Info: [Schimmel vermeiden](/anliegen/schimmel/)
 
