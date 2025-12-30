@@ -141,10 +141,13 @@ Wenn Sie nicht aufpassen, wird es teuer.
 
 **So bekommen Sie Geld zurück:**
 
-1. **Wenig heizen, aber richtig**
-   - Mindestens 16°C (sonst [Schimmel](/anliegen/schimmel/)!)
+1. **Richtig heizen (nicht zu wenig!)**
+   - Wohnzimmer: 20-22°C
+   - Bad: 21-23°C
+   - Schlafzimmer: mindestens 18°C
+   - Weniger = [Schimmel](/anliegen/schimmel/) = Sie zahlen!
    - Fenster zu beim Heizen
-   - Heizung runter wenn Sie weg sind
+   - Mehr Info: [Schimmel vermeiden](/anliegen/schimmel/)
 
 2. **Wenig Wasser verbrauchen**
    - Kurz duschen (5 Minuten)

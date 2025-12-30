@@ -35,26 +35,27 @@ weight: 2
 
 **Richtig heizen:**
 
-**WICHTIG:** Temperatur hängt davon ab, wie Sie leben!
+**Diese Temperaturen MÜSSEN Sie einhalten (Gesetz!):**
 
-**Minimum: 16°C** (wenn Sie wenig kochen/duschen)
+- **Wohnzimmer und Küche: 20-22°C**
+- **Badezimmer: 21-23°C**
+- **Schlafzimmer: mindestens 18°C**
+- **Nachts (23-6 Uhr): mindestens 18°C**
 
-**Besser: 18-20°C** wenn Sie:
-- Viel kochen (viel Dampf!)
-- Oft duschen/baden
-- Viele Personen in der Wohnung
+**Warum so warm?**
+- Kalte Wand + Feuchtigkeit = Schimmel!
+- Sie kochen → Dampf in der Luft
+- Sie duschen → Dampf in der Luft
+- Sie atmen → Feuchtigkeit in der Luft
+- Wenn Wand kalt ist: Wasser sammelt sich → Schimmel wächst!
 
-**Warum?**
-- Kochen = Dampf in der Luft
-- Duschen = Dampf in der Luft
-- Menschen = Feuchtigkeit in der Luft
-- Kalte Wand + Feuchtigkeit = Wasser an der Wand
-- Wasser an der Wand = Schimmel!
+**Heizperiode:**
+- **1. Oktober bis 30. April:** Heizung muss funktionieren
+- Außerhalb: Wenn es draußen kalt ist (unter 12°C), Heizung anmachen
 
-**Also:**
-- Viel Feuchtigkeit in Wohnung → mehr heizen (18-20°C)
-- Wenig Feuchtigkeit → weniger heizen ok (16°C)
-- Aber NIEMALS unter 16°C!
+**Wichtig:**
+Diese Temperaturen stehen im Gesetz!
+Wenn Sie weniger heizen → Schimmel → Sie zahlen Reparatur!
 
 **Möbel richtig stellen:**
 - Mindestens 5cm Abstand zur Wand

@@ -17,12 +17,13 @@ Sie können viel Geld sparen!
 ## Weniger Nebenkosten bezahlen
 
 **Heizung richtig nutzen:**
-- Mindestens 16-20°C (je nachdem wie viel Sie kochen/duschen)
-- Mehr Info: [Schimmel vermeiden](/anliegen/schimmel/)
+- **Wohnzimmer/Küche: 20-22°C** (Gesetz!)
+- **Bad: 21-23°C** (Gesetz!)
+- **Schlafzimmer: mindestens 18°C** (Gesetz!)
+- NICHT weniger heizen → sonst [Schimmel](/anliegen/schimmel/) → Sie zahlen!
 - Fenster zu beim Heizen
-- Heizung runter wenn Sie weg sind (aber nicht unter 16°C!)
 - Stoßlüften statt Fenster kippen
-- **→ Sie sparen: 200-300 Euro pro Jahr!**
+- **→ Sie sparen beim Strom: 100-200 Euro pro Jahr!**
 
 **Wasser sparen:**
 - Kurz duschen (5 Minuten)
@@ -163,10 +164,11 @@ Sie bekommen die Kaution zurück, wenn:
 
 ## Zusammenfassung: So sparen Sie Geld
 
-**1. Weniger verbrauchen:**
-- Weniger heizen (aber mindestens 16°C!)
+**1. Richtig verbrauchen:**
+- Richtig heizen (20-22°C Wohnzimmer, 18°C Schlafzimmer)
+- NICHT zu wenig heizen (sonst Schimmel = teuer!)
 - Weniger Wasser
-- **→ Sparen: 300-450 Euro pro Jahr**
+- **→ Sparen: 200-300 Euro pro Jahr**
 
 **2. Probleme sofort melden:**
 - Kleine Probleme sind billig
