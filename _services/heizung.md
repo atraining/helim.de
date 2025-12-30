@@ -20,12 +20,12 @@ weight: 1
 
 ### Heizung ausgefallen?
 
-**Im Winter = Notfall:** Bitte sofort anrufen unter **[01634314960](tel:01634314960)**
+**Im Winter = Notfall:** Nutzen Sie die Notfallnummer auf der [Kontaktseite](/kontakt/)
 
-**Im Sommer:** Bitte [Kontaktformular](/contact) nutzen
+**Im Sommer:** [Kontakt aufnehmen](/kontakt/)
 
 ---
 
 ## Weitere Fragen?
 
-Nutzen Sie unser [Kontaktformular](/contact) - wir melden uns innerhalb von 24 Stunden.
+[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

@@ -24,7 +24,7 @@ Typischerweise:
 
 ### Fragen zur Abrechnung?
 
-Nutzen Sie unser [Kontaktformular](/contact) und geben Sie an:
+[Kontakt aufnehmen](/kontakt/) und folgendes angeben:
 
 - **Abrechnungszeitraum**
 - **Ihre konkrete Frage**
@@ -32,8 +32,6 @@ Nutzen Sie unser [Kontaktformular](/contact) und geben Sie an:
 
 ---
 
-## Kontakt
+## Weitere Fragen?
 
-**Email:** [info@helim.de](mailto:info@helim.de)
-**Telefon:** [01634314960](tel:01634314960)
-**Kontaktformular:** [Hier klicken](/contact)
+[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

@@ -1,8 +1,5 @@
 <div class="call">
   <div class="call-box-top">
-    {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
-    {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
       <a href="mailto:{{ site.data.contact.email }}">
@@ -17,10 +14,13 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.phone %}
+        <div class="call-phone"><strong>Notfallnummer: </strong> {{ site.data.contact.phone }} </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Kontakt</a>
       </div>
     {% endif %}
 </div>

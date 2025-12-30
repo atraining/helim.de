@@ -12,22 +12,21 @@ weight: 4
 
 1. **Pümpel (Saugglocke) verwenden**
 2. **Heißes Wasser nachgießen**
-3. Falls das nicht hilft: [Kontaktformular](/contact)
+3. Falls das nicht hilft: [Kontakt aufnehmen](/kontakt/)
 
 #### Tropfender Wasserhahn
 
 - Oft hilft es, den Hahn fester zuzudrehen
-- Bei anhaltendem Tropfen: [Kontaktformular](/contact)
+- Bei anhaltendem Tropfen: [Kontakt aufnehmen](/kontakt/)
 
 #### Toilette läuft nach
 
 - Spülkasten-Mechanismus prüfen
-- Bei Bedarf: [Kontaktformular](/contact)
+- Bei Bedarf: [Kontakt aufnehmen](/kontakt/)
 
 ### Notfälle
 
-**Rohrbruch / Wasserschaden = Sofort anrufen:**
-**[01634314960](tel:01634314960)**
+**Rohrbruch / Wasserschaden:** Nutzen Sie die Notfallnummer auf der [Kontaktseite](/kontakt/)
 
 **Erste Maßnahme:** Hauptwasserhahn zudrehen!
 
@@ -35,4 +34,4 @@ weight: 4
 
 ## Weitere Fragen?
 
-Nutzen Sie unser [Kontaktformular](/contact) - wir melden uns innerhalb von 24 Stunden.
+[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

@@ -29,4 +29,4 @@ Informationen zur Kostenerstattung von Anti-Schimmel-Produkten folgen in Kürze.
 
 ## Weitere Fragen?
 
-Nutzen Sie unser [Kontaktformular](/contact) - wir melden uns innerhalb von 24 Stunden.
+[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

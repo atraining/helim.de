@@ -3,7 +3,7 @@ main:
     url: "/anliegen/"
     weight: 2
   - name: "Kontakt"
-    url: "/contact/"
+    url: "/kontakt/"
     weight: 3
 
 footer:
@@ -11,5 +11,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Kontakt"
-    url: "/contact/"
+    url: "/kontakt/"
     weight: 2

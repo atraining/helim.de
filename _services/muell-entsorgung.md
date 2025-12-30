@@ -87,4 +87,4 @@ Große Gegenstände: Möbel, Matratzen, Teppiche, größere Elektrogeräte
 
 ## Weitere Fragen?
 
-Nutzen Sie unser [Kontaktformular](/contact) - wir melden uns innerhalb von 24 Stunden.
+[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.
