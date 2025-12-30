@@ -17,9 +17,10 @@ Sie können viel Geld sparen!
 ## Weniger Nebenkosten bezahlen
 
 **Heizung richtig nutzen:**
-- Mindestens 16°C (sonst [Schimmel](/anliegen/schimmel/)!)
+- Mindestens 16-20°C (je nachdem wie viel Sie kochen/duschen)
+- Mehr Info: [Schimmel vermeiden](/anliegen/schimmel/)
 - Fenster zu beim Heizen
-- Heizung runter wenn Sie weg sind
+- Heizung runter wenn Sie weg sind (aber nicht unter 16°C!)
 - Stoßlüften statt Fenster kippen
 - **→ Sie sparen: 200-300 Euro pro Jahr!**
 

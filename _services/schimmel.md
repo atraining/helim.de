@@ -34,9 +34,28 @@ weight: 2
 - Nach dem Kochen: Fenster auf!
 
 **Richtig heizen:**
-- Immer mindestens 16°C in allen Zimmern
-- Auch im Schlafzimmer
-- Auch wenn Sie nicht da sind
+
+**WICHTIG:** Temperatur hängt davon ab, wie Sie leben!
+
+**Minimum: 16°C** (wenn Sie wenig kochen/duschen)
+
+**Besser: 18-20°C** wenn Sie:
+- Viel kochen (viel Dampf!)
+- Oft duschen/baden
+- Viele Personen in der Wohnung
+- Wäsche in der Wohnung trocknen
+
+**Warum?**
+- Kochen = Dampf in der Luft
+- Duschen = Dampf in der Luft
+- Menschen = Feuchtigkeit in der Luft
+- Kalte Wand + Feuchtigkeit = Wasser an der Wand
+- Wasser an der Wand = Schimmel!
+
+**Also:**
+- Viel Feuchtigkeit in Wohnung → mehr heizen (18-20°C)
+- Wenig Feuchtigkeit → weniger heizen ok (16°C)
+- Aber NIEMALS unter 16°C!
 
 **Möbel richtig stellen:**
 - Mindestens 5cm Abstand zur Wand

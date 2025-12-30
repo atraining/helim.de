@@ -17,6 +17,7 @@ collections:
   services:
     output: true
     sort_by: weight
+    permalink: /anliegen/:name/
   team:
     output: true
 
