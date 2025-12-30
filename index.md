@@ -6,19 +6,18 @@ intro_image: false
 show_call_box: true
 ---
 
-# Wir helfen bei Problemen
+# Sie haben ein Problem?
 
-Klicken Sie unten auf Ihr Problem.
-Dort finden Sie Informationen und Kontakt.
+**Klicken Sie rechts auf Ihr Problem.**
+Dort steht was Sie machen können.
 
-**Wichtig:**
-Wir brauchen diese Informationen von Ihnen:
-- Was ist das Problem?
-- Wo ist das Problem? (Adresse, Wohnung)
-- Seit wann?
+**Oft können Sie es selbst lösen:**
+- Schneller
+- Kostet nichts
+- Kaution bleibt
 
-Nicht alle Probleme sind sofort lösbar.
-Wir arbeiten gemeinsam an der Lösung.
+**Können Sie es nicht selbst lösen?**
+→ [Kontakt](/kontakt/)
 
-**NOTFALL** (Wasser läuft, keine Heizung im Winter, Gasgeruch):
-Rufen Sie sofort die Notfallnummer an!
+**NOTFALL** (Wasser läuft, keine Heizung im Winter):
+→ Notfallnummer auf [Kontaktseite](/kontakt/)
