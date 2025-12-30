@@ -11,7 +11,8 @@ show_call_box: true
 **Klicken Sie rechts auf Ihr Problem.**
 
 Sie kennen Ihre Wohnung am besten.
-Viele kleine Probleme können Sie selbst lösen - schneller und kostet nichts.
+Oft können Sie kleine Probleme selbst lösen.
+Wenn nicht - wir helfen gern.
 
 **Brauchen Sie Hilfe?** → [Kontakt](/kontakt/)
 
