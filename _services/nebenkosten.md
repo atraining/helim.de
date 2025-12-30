@@ -116,27 +116,81 @@ Diese Kosten sind in den Nebenkosten:
 **So funktioniert es:**
 
 Jeden Monat zahlen Sie z.B. 100 Euro Nebenkosten.
-Aber: Wir wissen nicht genau, wie viel Sie wirklich verbrauchen!
+Am Ende des Jahres zählen wir, wie viel Sie wirklich verbraucht haben.
 
-**Am Ende des Jahres:**
-Wir zählen, wie viel Sie wirklich verbraucht haben.
+**Was passiert dann?**
 
-**Beispiel 1 - Nachzahlung (Sie zahlen mehr):**
-- Sie haben jeden Monat 100 Euro bezahlt = 1.200 Euro im Jahr
-- Aber: Sie haben viel geheizt und viel Wasser benutzt
-- Echte Kosten: 1.400 Euro
-- → Sie müssen 200 Euro nachzahlen
+**Sie haben viel verbraucht:**
+- Jeden Monat bezahlt: 100 Euro = 1.200 Euro
+- Wirklich verbraucht: 1.400 Euro
+- **→ Nachzahlung: Sie müssen 200 Euro extra zahlen**
+- Das ist teuer!
 
-**Beispiel 2 - Rückzahlung (Sie bekommen Geld zurück):**
-- Sie haben jeden Monat 100 Euro bezahlt = 1.200 Euro im Jahr
-- Sie haben wenig geheizt, wenig Wasser benutzt
-- Echte Kosten: 1.000 Euro
-- → Sie bekommen 200 Euro zurück
+**Sie haben wenig verbraucht:**
+- Jeden Monat bezahlt: 100 Euro = 1.200 Euro
+- Wirklich verbraucht: 1.000 Euro
+- **→ Rückzahlung: Sie bekommen 200 Euro zurück!**
+- Das ist gut!
 
-**Tipp: Weniger Nebenkosten bezahlen**
-- Fenster zu beim Heizen
-- Kurz duschen statt lange baden
-- Heizung runter wenn Sie weg sind
+## Geld zurück vom Vermieter bekommen
+
+**Wichtig: Sie entscheiden!**
+
+Wenn Sie gut aufpassen, bekommen Sie Geld zurück.
+Wenn Sie nicht aufpassen, wird es teuer.
+
+**So bekommen Sie Geld zurück:**
+
+1. **Wenig heizen, aber richtig**
+   - Mindestens 16°C (sonst [Schimmel](/anliegen/schimmel/)!)
+   - Fenster zu beim Heizen
+   - Heizung runter wenn Sie weg sind
+
+2. **Wenig Wasser verbrauchen**
+   - Kurz duschen (5 Minuten)
+   - Nicht baden (kostet viel Wasser!)
+   - Wasserhahn zudrehen beim Zähneputzen
+
+3. **Probleme SOFORT melden!**
+   - [Schimmel](/anliegen/schimmel/)? Sofort melden!
+   - Wasserhahn tropft? Sofort melden!
+   - Heizung macht Geräusche? Sofort melden!
+
+## WICHTIG: Ehrlich sein spart Geld!
+
+**Warum ehrlich sein wichtig ist:**
+
+**Beispiel Schimmel:**
+- Sie sehen kleinen [Schimmel](/anliegen/schimmel/) → Sie sagen nichts
+- Schimmel wird größer und größer
+- Beim Auszug: Große Schimmelschäden!
+- **→ Reparatur kostet 2.000 Euro!**
+- **→ Ihre Kaution ist weg!**
+- **→ Sie müssen noch mehr zahlen!**
+
+**Richtig machen:**
+- Kleinen [Schimmel](/anliegen/schimmel/) sofort melden
+- Wir reparieren schnell
+- Kostet nur 50 Euro
+- **→ Ihre Kaution bleibt!**
+- **→ Sie sparen 1.950 Euro!**
+
+**Keine Angst:**
+- Wir kündigen Ihnen nicht!
+- Probleme können passieren
+- Aber: Schnell melden = billig
+- Lange warten = teuer!
+
+**Die Kaution:**
+Beim Einzug haben Sie Kaution bezahlt (z.B. 1.500 Euro).
+Diese bekommen Sie zurück, wenn:
+- Die Wohnung gut ist
+- Keine großen Schäden da sind
+
+Wenn Sie Probleme verstecken:
+- Schäden werden groß
+- Kaution ist weg
+- Sie müssen noch mehr zahlen!
 
 ## Fragen zur Abrechnung?
 
