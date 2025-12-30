@@ -12,7 +12,7 @@ show_call_box: true
 
 Sie kennen Ihre Wohnung am besten.
 Oft können Sie kleine Probleme selbst lösen.
-Wenn nicht - wir helfen gern.
+Wenn nicht - melden Sie sich.
 
 **Brauchen Sie Hilfe?** → [Kontakt](/kontakt/)
 
