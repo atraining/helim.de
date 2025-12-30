@@ -1,5 +1,5 @@
 ---
-title: Wichtige Informationen - Schottstraße 10, Gießen
+title: Schottstraße 10, Gießen
 layout: page
 description: Wichtige Informationen für Mieter
 permalink: /35390-giessen-schottstrasse-10/
@@ -7,59 +7,28 @@ sitemap: false
 robots: noindex,nofollow
 ---
 
-# ⚠️ WICHTIGE INFORMATIONEN
+# Schottstraße 10, Gießen
 
-**Sehr wichtig!**
-
-**!مهم جداً**
-
-**!بسیار مهم**
-
-**!ډیر مهم**
-
-**Çok önemli!**
-
-**!زۆر گرنگە**
-
-**Very important!**
-
-**Очень важно!**
-
-**Bardzo ważne!**
-
-**Foarte important!**
+**Sehr wichtig! - !مهم جداً - !بسیار مهم - !ډیر مهم - Çok önemli! - !زۆر گرنگە - Very important! - Очень важно! - Bardzo ważne! - Foarte important!**
 
 ---
 
-**💡 TIPP:** Oben rechts auf Website → 🌐 Sprache wählen → Ganze Seite übersetzen!
+## 1. 🗑️ MÜLL IMMER RICHTIG TRENNEN - SONST TEUER FÜR ALLE!
 
----
+**Was ist neu?**
+Biotonne (braun) ist weg.
+Biomüll jetzt in schwarze Tonne.
 
-## Wichtige Informationen für alle Mieter
-
-**Bitte alles lesen! Sehr wichtig!**
-
----
-
-## 1. ❌ KEINE BRAUNE TONNE MEHR (Biomüll)
-
-**Was ist passiert?**
-Die braune Tonne ist jetzt weg.
-Warum? Zu viel falscher Müll war drin.
-
-**Was bedeutet das?**
-- Kein Biomüll mehr in braune Tonne
-- Biomüll muss jetzt in schwarze Tonne (Restmüll)
-
-**ACHTUNG!**
-Wenn Tonne voll ist und Sonderabholung kommt:
+**ACHTUNG - SEHR TEUER!**
+Wenn Tonne voll und Sonderabholung kommt:
 **Jede Wohnung zahlt ca. 20 Euro pro Tonne!**
-Das passiert jedes Mal!
+Jedes Mal!
 
-**Bitte:**
-- Müll richtig trennen
-- Nur eigenen Müll in Tonnen
-- Nicht zu viel Müll machen
+**Was Sie machen müssen:**
+- **Müll richtig trennen!** [Hier lesen wie → Müll richtig trennen](/services/muell-entsorgung/)
+- Nur eigenen Müll in Tonne
+- Nicht zu viel Müll
+- **Falsch getrennt = Teuer für ALLE!**
 
 ---
 
