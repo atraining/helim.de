@@ -1,37 +1,9 @@
 .translate-content-top {
   display: block;
   text-align: center;
-  margin-bottom: 30px;
-  padding: 20px;
-  background-color: $primary;
-  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 10px;
   @include media-breakpoint-up(md) {
     display: none;
-  }
-  &:before {
-    content: "🌐 Lesen in Ihrer Sprache";
-    display: block;
-    color: white;
-    font-size: 1.2rem;
-    font-weight: 700;
-    margin-bottom: 15px;
-  }
-  .skiptranslate {
-    display: inline-block;
-  }
-  .goog-te-gadget {
-    font-family: inherit;
-  }
-  .goog-te-gadget-simple {
-    border: 3px solid white !important;
-    background-color: white !important;
-    color: $primary !important;
-    padding: 15px 25px !important;
-    font-size: 1.1rem !important;
-    font-weight: 700 !important;
-    border-radius: 6px !important;
-  }
-  .goog-te-gadget-icon {
-    display: none !important;
   }
 }
