@@ -6,24 +6,47 @@ weight: 2
 
 ## Schimmel entdeckt?
 
-### Sofortmaßnahmen
+**Das sollten Sie sofort machen:**
 
-1. **Betroffene Stelle trocken halten**
-2. **Gut lüften** (3x täglich Stoßlüften für 5-10 Minuten)
-3. **Nicht überstreichen!**
+1. **Stelle trocken halten**
+   - Mit Tuch abwischen
+   - Nicht nass lassen
 
-### Ursachen vermeiden
+2. **Fenster öffnen**
+   - 3x am Tag
+   - 5-10 Minuten
+   - Ganz aufmachen (nicht kippen)
 
-Die häufigsten Ursachen für Schimmel:
+3. **NICHT überstreichen!**
+   - Schimmel kommt wieder
 
-- **Zu wenig Lüften:** Mindestens 3x täglich Stoßlüften
-- **Zu niedrige Temperatur:** Mindestens 16°C in allen Räumen
-- **Möbel zu nah an Außenwänden:** 5-10cm Abstand lassen
-- **Wäsche trocknen:** Nur mit offenen Fenstern
+4. **Uns informieren**
+   - [Kontakt](/kontakt/)
+   - Foto vom Schimmel schicken
 
-### Schimmel bekämpfen
+## So verhindern Sie Schimmel
 
-Informationen zur Kostenerstattung von Anti-Schimmel-Produkten folgen in Kürze.
+**Richtig lüften:**
+- Morgens: Fenster auf, 5-10 Minuten
+- Mittags: Fenster auf, 5-10 Minuten
+- Abends: Fenster auf, 5-10 Minuten
+- Nach dem Duschen: Fenster auf!
+- Nach dem Kochen: Fenster auf!
+
+**Richtig heizen:**
+- Immer mindestens 16°C in allen Zimmern
+- Auch im Schlafzimmer
+- Auch wenn Sie nicht da sind
+
+**Möbel richtig stellen:**
+- Mindestens 5cm Abstand zur Wand
+- Besonders bei Außenwänden wichtig
+- Luft muss zirkulieren können
+
+**Wäsche trocknen:**
+- Nur bei offenem Fenster
+- Besser: Draußen oder im Keller
+- Nicht im geschlossenen Raum
 
 ---
 

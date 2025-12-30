@@ -4,25 +4,38 @@ date: 2024-01-01
 weight: 1
 ---
 
-## Problem mit der Heizung?
+## Heizung wird nicht warm?
 
-### Heizung wird nicht warm
+**Das können Sie selbst machen:**
 
-1. **Thermostat prüfen:** Ist es auf die gewünschte Temperatur eingestellt?
-2. **Entlüften:** Oft hilft es, den Heizkörper zu entlüften
-3. **Hauptventil:** Ist das Ventil unter dem Heizkörper geöffnet?
+1. **Drehknopf prüfen:**
+   - Ist der Drehknopf an der Heizung auf 3, 4 oder 5?
+   - Wenn nein: Nach rechts drehen
 
-### Heizkosten zu hoch
+2. **Luft rauslassen:**
+   - Oben an der Heizung ist ein kleines Ventil
+   - Mit Schlüssel aufdrehen
+   - Luft kommt raus (zischt)
+   - Wasser kommt: Sofort zudrehen
 
-- Stoßlüften statt Dauerlüften (3x täglich für 5-10 Minuten)
-- Temperatur nachts absenken
-- Heizkörper nicht durch Möbel oder Vorhänge verdecken
+3. **Ventil unten prüfen:**
+   - Unter der Heizung ist ein großes Ventil
+   - Ist es offen? (Griff parallel zum Rohr = offen)
 
-### Heizung ausgefallen?
+## Heizkosten sparen
 
-**Im Winter = Notfall:** Nutzen Sie die Notfallnummer auf der [Kontaktseite](/kontakt/)
+- Fenster zu beim Heizen!
+- Fenster auf: Nur 5-10 Minuten, dann wieder zu
+- Nachts Drehknopf auf 2 oder 1 stellen
+- Möbel weg von der Heizung
 
-**Im Sommer:** [Kontakt aufnehmen](/kontakt/)
+## Heizung ganz kaputt?
+
+**Winter (kalt):** NOTFALL!
+→ Notfallnummer anrufen! ([Kontakt](/kontakt/))
+
+**Sommer (warm):** Kein Notfall
+→ [Kontakt](/kontakt/) - wir melden uns in 24 Stunden
 
 ---
 

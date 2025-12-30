@@ -4,31 +4,59 @@ date: 2024-01-04
 weight: 4
 ---
 
-## Probleme mit Wasser oder Sanitär?
+## Abfluss verstopft?
 
-### Häufige Probleme
+**Das können Sie selbst machen:**
 
-#### Verstopfter Abfluss
+1. **Pümpel holen**
+   - Auch "Saugglocke" genannt
+   - Gibt es im Supermarkt
 
-1. **Pümpel (Saugglocke) verwenden**
-2. **Heißes Wasser nachgießen**
-3. Falls das nicht hilft: [Kontakt aufnehmen](/kontakt/)
+2. **Pümpel auf Abfluss setzen**
+   - Fest andrücken
+   - Mehrmals hoch und runter pumpen
 
-#### Tropfender Wasserhahn
+3. **Heißes Wasser nachgießen**
+   - Vorsicht: Sehr heiß!
+   - Hilft Fett aufzulösen
 
-- Oft hilft es, den Hahn fester zuzudrehen
-- Bei anhaltendem Tropfen: [Kontakt aufnehmen](/kontakt/)
+4. **Immer noch verstopft?**
+   - [Kontakt aufnehmen](/kontakt/)
+   - Wir schicken einen Fachmann
 
-#### Toilette läuft nach
+## Wasserhahn tropft?
 
-- Spülkasten-Mechanismus prüfen
-- Bei Bedarf: [Kontakt aufnehmen](/kontakt/)
+**Das können Sie probieren:**
 
-### Notfälle
+1. **Hahn fester zudrehen**
+   - Manchmal reicht das schon
 
-**Rohrbruch / Wasserschaden:** Nutzen Sie die Notfallnummer auf der [Kontaktseite](/kontakt/)
+2. **Tropft noch?**
+   - [Kontakt aufnehmen](/kontakt/)
+   - Wir reparieren das
 
-**Erste Maßnahme:** Hauptwasserhahn zudrehen!
+## Toilette läuft nach?
+
+- Wasser läuft ständig nach dem Spülen?
+- [Kontakt aufnehmen](/kontakt/)
+- Wir schicken einen Fachmann
+
+## NOTFALL: Wasser läuft aus!
+
+**Rohrbruch oder Wasserschaden:**
+
+1. **SOFORT: Haupthahn zudrehen!**
+   - Meist im Keller oder Bad
+   - Großer Hahn an der Wand
+   - Nach links drehen = zu
+
+2. **Notfallnummer anrufen!**
+   - Nummer auf [Kontaktseite](/kontakt/)
+   - 24 Stunden erreichbar
+
+3. **Wasser aufwischen**
+   - So viel wie möglich
+   - Nachbarn warnen wenn nötig
 
 ---
 

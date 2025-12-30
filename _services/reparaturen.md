@@ -4,32 +4,43 @@ date: 2024-01-03
 weight: 3
 ---
 
-## Reparatur notwendig?
+## Etwas ist kaputt?
 
-### So melden Sie Reparaturen
+**So melden Sie eine Reparatur:**
 
-[Kontakt aufnehmen](/kontakt/) und folgendes angeben:
+1. **[Kontakt aufnehmen](/kontakt/)**
 
-- **Was ist defekt?**
-- **Seit wann besteht das Problem?**
-- **Ist es ein Notfall?**
-- **Fotos** (falls möglich)
+2. **Diese Infos brauchen wir:**
+   - Was ist kaputt?
+   - Wo ist es kaputt? (Adresse, Wohnung, Raum)
+   - Seit wann?
+   - Foto vom Problem (wenn möglich)
 
-### Was gilt als Notfall?
+3. **Wir antworten:**
+   - Normal: Innerhalb 24 Stunden
+   - Notfall: Sofort (siehe unten)
 
-Nur bei diesen Problemen:
+## Was ist ein NOTFALL?
 
-- Rohrbruch / Wasserschaden
-- Heizungsausfall im Winter
+**NOTFALL = Sofort Notfallnummer anrufen!**
+
+Ein Notfall ist nur:
+- Wasser läuft aus (Rohrbruch)
+- Keine Heizung im Winter
 - Gasgeruch
-- Stromausfall in der ganzen Wohnung
-- Einbruch / Sicherheitsproblem
+- Kein Strom in ganzer Wohnung
+- Einbruch
+- Tür geht nicht auf/zu
 
-Bei Notfällen nutzen Sie die Notfallnummer auf der [Kontaktseite](/kontakt/)
+**Kein Notfall:**
+- Tropfender Wasserhahn
+- Lampe kaputt
+- Heizung macht Geräusche (aber ist warm)
+- Fenster klemmt
 
-### Kleinreparaturen
+→ Bei NOTFALL: Notfallnummer auf [Kontaktseite](/kontakt/)
 
-Informationen zu Kleinreparaturen und Kostenübernahme folgen in Kürze.
+→ Kein Notfall: Normaler Kontakt, wir melden uns in 24 Stunden
 
 ---
 

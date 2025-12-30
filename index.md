@@ -6,10 +6,19 @@ intro_image: false
 show_call_box: true
 ---
 
-# Anliegen strukturiert bearbeiten
+# Wir helfen bei Problemen
 
-Nutzen Sie die Kategorien unten, um Informationen zu Ihrem Anliegen zu finden oder Kontakt aufzunehmen.
+Klicken Sie unten auf Ihr Problem.
+Dort finden Sie Informationen und Kontakt.
 
-**Wichtig:** Eine schnelle Lösung erfordert vollständige Informationen (Was? Wo? Seit wann?) und gemeinsames Handeln. Nicht jedes Problem ist sofort lösbar - Ihre Mitarbeit ist entscheidend.
+**Wichtig:**
+Wir brauchen diese Informationen von Ihnen:
+- Was ist das Problem?
+- Wo ist das Problem? (Adresse, Wohnung)
+- Seit wann?
 
-**Echte Notfälle** (Rohrbruch, Heizungsausfall im Winter, Gasgeruch): Nutzen Sie die Notfallnummer.
+Nicht alle Probleme sind sofort lösbar.
+Wir arbeiten gemeinsam an der Lösung.
+
+**NOTFALL** (Wasser läuft, keine Heizung im Winter, Gasgeruch):
+Rufen Sie sofort die Notfallnummer an!

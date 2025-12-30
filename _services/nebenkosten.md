@@ -4,31 +4,60 @@ date: 2024-01-06
 weight: 6
 ---
 
-## Nebenkosten-Abrechnung
+## Was sind Nebenkosten?
 
-### Wann erhalte ich die Abrechnung?
+Nebenkosten sind zusätzliche Kosten zur Miete.
+Sie bezahlen jeden Monat einen Teil.
+Einmal im Jahr bekommen Sie die Abrechnung.
 
-Die Nebenkostenabrechnung erhalten Sie einmal jährlich.
+## Was zahle ich bei Nebenkosten?
 
-### Was ist in den Nebenkosten enthalten?
+Diese Kosten sind in den Nebenkosten:
 
-Typischerweise:
+- **Wasser**
+  - Kaltes Wasser
+  - Abwasser
 
-- Wasser / Abwasser
-- Heizung / Warmwasser
-- Müllentsorgung
-- Hausreinigung
-- Grundsteuer (anteilig)
-- Versicherungen
-- Hausmeister
+- **Heizung**
+  - Heizung
+  - Warmes Wasser
 
-### Fragen zur Abrechnung?
+- **Müll**
+  - Müllabfuhr
 
-[Kontakt aufnehmen](/kontakt/) und folgendes angeben:
+- **Hausreinigung**
+  - Treppe putzen
+  - Hof kehren
 
-- **Abrechnungszeitraum**
-- **Ihre konkrete Frage**
-- **Wohnungsnummer** (falls zutreffend)
+- **Andere Kosten**
+  - Grundsteuer
+  - Versicherung
+  - Hausmeister
+
+## Wann bekomme ich die Abrechnung?
+
+- Einmal pro Jahr
+- Meist zwischen Januar und Juni
+- Für das letzte Jahr
+
+## Nachzahlung oder Rückzahlung?
+
+**Nachzahlung:**
+- Sie haben mehr verbraucht
+- Sie müssen Geld nachzahlen
+
+**Rückzahlung:**
+- Sie haben weniger verbraucht
+- Sie bekommen Geld zurück
+
+## Fragen zur Abrechnung?
+
+**[Kontakt aufnehmen](/kontakt/)**
+
+Bitte sagen Sie uns:
+- Von wann bis wann? (Zeitraum)
+- Was verstehen Sie nicht?
+- Welche Wohnung? (Wohnungsnummer)
 
 ---
 
