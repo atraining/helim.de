@@ -14,9 +14,12 @@ Dort steht was Sie machen können.
 **Oft können Sie es selbst lösen:**
 - Schneller
 - Kostet nichts
-- Kaution bleibt
 
-**Können Sie es nicht selbst lösen?**
+**Sie kennen Ihre Wohnung am besten.**
+Jede Wohnung ist anders.
+Viele kleine Probleme können Sie selbst lösen.
+
+**Brauchen Sie Hilfe?**
 → [Kontakt](/kontakt/)
 
 **NOTFALL** (Wasser läuft, keine Heizung im Winter):
