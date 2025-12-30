@@ -17,6 +17,27 @@
     z-index: 10;
     width: 100%;
   }
+  .translate-mobile-header {
+    display: block;
+    margin-left: auto;
+    margin-right: 15px;
+    @include media-breakpoint-up(md) {
+      display: none;
+    }
+    .goog-te-gadget {
+      font-size: 0;
+      line-height: 0;
+    }
+    .goog-te-gadget-simple {
+      border: 2px solid $primary;
+      background-color: $primary;
+      color: white;
+      padding: 8px 12px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: 4px;
+    }
+  }
 }
 .lock-scroll {
   .header {
