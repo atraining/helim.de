@@ -7,8 +7,11 @@
   a {
     padding: 10px;
     display: inline-block;
+    color: $white;
+    text-decoration: none;
     &:hover {
       opacity: 0.8;
+      text-decoration: underline;
     }
   }
 }
