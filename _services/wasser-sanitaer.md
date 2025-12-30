@@ -60,6 +60,13 @@ weight: 4
 
 ---
 
+## 💰 Tipp: Geld sparen!
+
+Wasserprobleme sofort melden spart viel Geld!
+Lesen Sie: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
+
+---
+
 ## Weitere Fragen?
 
 [Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

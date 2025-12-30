@@ -156,41 +156,19 @@ Wenn Sie nicht aufpassen, wird es teuer.
    - Wasserhahn tropft? Sofort melden!
    - Heizung macht Geräusche? Sofort melden!
 
-## WICHTIG: Ehrlich sein spart Geld!
+## Noch mehr Geld sparen?
 
-**Warum ehrlich sein wichtig ist:**
+**Sie können noch viel mehr sparen!**
 
-**Beispiel Schimmel:**
-- Sie sehen kleinen [Schimmel](/anliegen/schimmel/) → Sie sagen nichts
-- Schimmel wird größer und größer
-- Beim Auszug: Große Schimmelschäden!
-- **→ Reparatur kostet 2.000 Euro!**
-- **→ Ihre Kaution ist weg!**
-- **→ Sie müssen noch mehr zahlen!**
+Lesen Sie unseren Artikel: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
 
-**Richtig machen:**
-- Kleinen [Schimmel](/anliegen/schimmel/) sofort melden
-- Wir reparieren schnell
-- Kostet nur 50 Euro
-- **→ Ihre Kaution bleibt!**
-- **→ Sie sparen 1.950 Euro!**
+Dort lernen Sie:
+- Wie Sie bis zu 7.000 Euro sparen können
+- Warum ehrlich sein Geld spart
+- Wie Sie Ihre Kaution zurückbekommen
+- Was passiert wenn Sie Probleme verstecken (sehr teuer!)
 
-**Keine Angst:**
-- Wir kündigen Ihnen nicht!
-- Probleme können passieren
-- Aber: Schnell melden = billig
-- Lange warten = teuer!
-
-**Die Kaution:**
-Beim Einzug haben Sie Kaution bezahlt (z.B. 1.500 Euro).
-Diese bekommen Sie zurück, wenn:
-- Die Wohnung gut ist
-- Keine großen Schäden da sind
-
-Wenn Sie Probleme verstecken:
-- Schäden werden groß
-- Kaution ist weg
-- Sie müssen noch mehr zahlen!
+**→ [Jetzt lesen: Geld sparen](/anliegen/geld-sparen/)**
 
 ## Fragen zur Abrechnung?
 
