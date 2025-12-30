@@ -1,7 +1,7 @@
 [
   {
-    "title": "Schnelle Hilfe",
-    "description": "Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+    "title": "Strukturierte Bearbeitung",
+    "description": "Ihr Anliegen wird erfasst und bearbeitet. Rückmeldung erfolgt zeitnah - die Lösung kann Zeit erfordern.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Mehrsprachig",
-    "description": "Nutzen Sie unsere Übersetzungsfunktion für Ihre Sprache.",
+    "title": "Mehrsprachige Informationen",
+    "description": "Übersetzungsfunktion oben rechts verfügbar. Klare Kommunikation ist für eine Lösung wichtig.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Erreichbar",
-    "description": "Per Telefon, E-Mail oder WhatsApp - wie es Ihnen passt.",
+    "title": "Klare Kommunikationswege",
+    "description": "Kontakt über definierte Kanäle. Vollständige Informationen beschleunigen die Bearbeitung.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

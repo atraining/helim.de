@@ -1,13 +1,15 @@
 ---
 title: helim.de - Ihre Hausverwaltung
 layout: home
-description: Informationen und Hilfe für Mieter - Schnell und unkompliziert zu Ihren Anliegen
+description: Strukturierte Immobilienverwaltung - Klare Prozesse für Ihre Anliegen
 intro_image: false
 show_call_box: true
 ---
 
-# Wie können wir Ihnen helfen?
+# Anliegen strukturiert bearbeiten
 
-Finden Sie schnell die passende Information zu Ihrem Anliegen in den Kategorien unten.
+Nutzen Sie die Kategorien unten, um Informationen zu Ihrem Anliegen zu finden oder Kontakt aufzunehmen.
 
-**Bei Notfällen** (Rohrbruch, Heizungsausfall im Winter, Gasgeruch) rufen Sie bitte direkt an.
+**Wichtig:** Eine schnelle Lösung erfordert vollständige Informationen (Was? Wo? Seit wann?) und gemeinsames Handeln. Nicht jedes Problem ist sofort lösbar - Ihre Mitarbeit ist entscheidend.
+
+**Echte Notfälle** (Rohrbruch, Heizungsausfall im Winter, Gasgeruch): Nutzen Sie die Notfallnummer.
