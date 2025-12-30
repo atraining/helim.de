@@ -1,14 +1,44 @@
-.translate-mobile-wrapper {
-  display: block;
+.translate-banner {
   text-align: center;
-  padding: 12px;
+  padding: 15px;
   background-color: $primary;
-  // Desktop: Position in header, no background
-  @include media-breakpoint-up(md) {
-    position: absolute;
-    top: 10px;
-    right: 20px;
-    padding: 0;
-    background-color: transparent;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+#google_translate_element {
+  .skiptranslate {
+    display: inline-block;
+  }
+
+  .goog-te-gadget {
+    font-family: inherit !important;
+  }
+
+  .goog-te-gadget-simple {
+    background-color: white !important;
+    border: 2px solid white !important;
+    padding: 12px 24px !important;
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    border-radius: 4px !important;
+
+    // Hide original text and icon
+    span:first-child,
+    img {
+      display: none !important;
+    }
+
+    // Add simple universal text
+    &::before {
+      content: "🌍 SPRACHE";
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+  }
+
+  .goog-te-gadget-icon {
+    display: none !important;
   }
 }
