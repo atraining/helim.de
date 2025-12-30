@@ -34,6 +34,7 @@ defaults:
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
+  quiet_deps: true # Suppress deprecation warnings from Bootstrap
 
 plugins:
   - jekyll-environment-variables

@@ -4,6 +4,8 @@
 // Colors
 $primary: #2c5f8d;
 $primary-dark: #1a3a5a;
+$primary-light: #4a7aa5;
+$primary-darker: #1f4463;
 $secondary: #5a8bb8;
 $black: #2f2f41;
 $white: #ffffff;
@@ -13,7 +15,7 @@ $steel: #5c5a5a;
 // Links
 $link-color: $primary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: $primary-light;
 $link-hover-decoration: underline;
 
 // Fonts
@@ -23,7 +25,7 @@ $font-family-heading: "Playfair Display", serif, -apple-system;
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: $primary-darker;
 $sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
