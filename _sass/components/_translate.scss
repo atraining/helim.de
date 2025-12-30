@@ -1,0 +1,38 @@
+.translate-content-top {
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: $primary;
+  border-radius: 8px;
+  @include media-breakpoint-up(md) {
+    display: none;
+  }
+  .goog-te-gadget {
+    font-size: 0;
+    line-height: 0;
+  }
+  .goog-te-gadget-simple {
+    border: 3px solid white;
+    background-color: white;
+    color: $primary;
+    padding: 12px 20px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-radius: 6px;
+    display: inline-block;
+    width: auto;
+    &:before {
+      content: "🌐 ";
+      font-size: 1.3rem;
+    }
+  }
+  &:before {
+    content: "Lesen in Ihrer Sprache";
+    display: block;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+}

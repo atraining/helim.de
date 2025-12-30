@@ -1,30 +1,23 @@
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'de',
-    includedLanguages: '',
-    layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-    autoDisplay: false
-  }, 'google_translate_element');
-
-  // Mobile header version (always visible)
-  if (document.getElementById('google_translate_mobile_header')) {
+  // Desktop: Navigation
+  if (document.getElementById('google_translate_element')) {
     new google.translate.TranslateElement({
       pageLanguage: 'de',
       includedLanguages: '',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
-    }, 'google_translate_mobile_header');
+    }, 'google_translate_element');
   }
 
-  // Mobile menu version
-  if (document.getElementById('google_translate_element_mobile')) {
+  // Mobile: Above content (prominent)
+  if (document.getElementById('google_translate_content_top')) {
     new google.translate.TranslateElement({
       pageLanguage: 'de',
       includedLanguages: '',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
-    }, 'google_translate_element_mobile');
+    }, 'google_translate_content_top');
   }
 }
 </script>
