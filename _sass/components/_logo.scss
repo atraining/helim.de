@@ -16,10 +16,19 @@
     display: block;
   }
   .logo-text {
-    font-size: 2rem;
-    font-weight: 600;
+    display: flex;
+    flex-direction: column;
     line-height: 1.2;
     font-family: $font-family-heading;
+    gap: 2px;
+  }
+  .logo-text-main {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .logo-text-sub {
+    font-size: 1rem;
+    font-weight: 400;
   }
 }
 .logo-mobile {
