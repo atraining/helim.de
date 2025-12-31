@@ -32,10 +32,10 @@ weight: 1
 ## Heizung ganz kaputt?
 
 **Winter (kalt):** NOTFALL!
-→ Notfallnummer anrufen! ([Kontakt](/kontakt/))
+→ NOTFALL Button unten klicken
 
 **Sommer (warm):** Kein Notfall
-→ [Kontakt](/kontakt/) - wir melden uns in 24 Stunden
+→ PROBLEM Button unten klicken
 
 ---
 
@@ -44,8 +44,3 @@ weight: 1
 Heizungsprobleme sofort melden spart viel Geld!
 Lesen Sie: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
 
----
-
-## Weitere Fragen?
-
-[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

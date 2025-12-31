@@ -21,7 +21,7 @@ weight: 2
    - Schimmel kommt wieder
 
 4. **Uns informieren**
-   - [Kontakt](/kontakt/)
+   - PROBLEM Button unten klicken
    - Foto vom Schimmel schicken
 
 ## So verhindern Sie Schimmel
@@ -80,8 +80,3 @@ Zu wenig heizen = Schimmel wächst = Sie zahlen Reparatur!
 Schimmel sofort melden spart viel Geld!
 Lesen Sie: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
 
----
-
-## Weitere Fragen?
-
-[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

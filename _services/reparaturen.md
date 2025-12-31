@@ -1,5 +1,5 @@
 ---
-title: "Reparaturen melden"
+title: "Reparaturen"
 date: 2024-01-03
 weight: 3
 ---
@@ -8,7 +8,7 @@ weight: 3
 
 **So melden Sie eine Reparatur:**
 
-1. **[Kontakt aufnehmen](/kontakt/)**
+1. **PROBLEM Button unten klicken**
 
 2. **Diese Infos brauchen wir:**
    - Was ist kaputt?
@@ -38,12 +38,7 @@ Ein Notfall ist nur:
 - Heizung macht Geräusche (aber ist warm)
 - Fenster klemmt
 
-→ Bei NOTFALL: Notfallnummer auf [Kontaktseite](/kontakt/)
+→ Bei NOTFALL: NOTFALL Button unten klicken
 
 → Kein Notfall: Normaler Kontakt, wir melden uns in 24 Stunden
 
----
-
-## Kontakt
-
-[Kontakt aufnehmen](/kontakt/)

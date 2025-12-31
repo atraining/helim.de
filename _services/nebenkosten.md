@@ -4,7 +4,7 @@ date: 2024-01-06
 weight: 6
 ---
 
-## Was sind Nebenkosten? (Für Anfänger erklärt)
+## Was sind Nebenkosten?
 
 **Sie wohnen in der Wohnung. Sie verbrauchen:**
 - Wasser (zum Duschen, Kochen, Toilette)
@@ -175,15 +175,10 @@ Dort lernen Sie:
 
 ## Fragen zur Abrechnung?
 
-**[Kontakt aufnehmen](/kontakt/)**
+**FRAGE Button unten klicken**
 
 Bitte sagen Sie uns:
 - Von wann bis wann? (Zeitraum)
 - Was verstehen Sie nicht?
 - Welche Wohnung? (Wohnungsnummer)
 
----
-
-## Weitere Fragen?
-
-[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

@@ -58,7 +58,7 @@ Wenn Sie Probleme sofort melden, bleibt es billig.
 
 **Richtig gemacht (BILLIG!):**
 1. Sie sehen kleinen [Schimmel](/anliegen/schimmel/)
-2. Sie [melden es sofort](/kontakt/)
+2. Sie melden es sofort (Button unten)
 3. Wir schicken jemanden
 4. Kleine Reparatur: 50 Euro
 5. **→ Wir bezahlen die 50 Euro**
@@ -79,7 +79,7 @@ Wenn Sie Probleme sofort melden, bleibt es billig.
 
 **Richtig gemacht (BILLIG!):**
 1. [Wasserhahn tropft](/anliegen/wasser-sanitaer/)
-2. Sie [melden es sofort](/kontakt/)
+2. Sie melden es sofort (Button unten)
 3. Wir reparieren
 4. Kostet: 30 Euro
 5. **→ Wir bezahlen**
@@ -98,7 +98,7 @@ Wenn Sie Probleme sofort melden, bleibt es billig.
 
 **Richtig gemacht (BILLIG!):**
 1. [Heizung macht Geräusche](/anliegen/heizung/)
-2. Sie [melden es sofort](/kontakt/)
+2. Sie melden es sofort (Button unten)
 3. Wir prüfen die Heizung
 4. Kleine Reparatur: 80 Euro
 5. **→ Wir bezahlen**
@@ -184,8 +184,3 @@ Sie bekommen die Kaution zurück, wenn:
 
 **Gesamt können Sie sparen: Über 7.000 Euro!**
 
----
-
-## Haben Sie Fragen?
-
-[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.

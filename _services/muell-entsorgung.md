@@ -83,8 +83,3 @@ Große Gegenstände: Möbel, Matratzen, Teppiche, größere Elektrogeräte
 **Wo entsorge ich Medikamente?**
 → Apotheke oder Schadstoffsammlung
 
----
-
-## Weitere Fragen?
-
-[Kontakt aufnehmen](/kontakt/) - wir melden uns innerhalb von 24 Stunden.
