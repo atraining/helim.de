@@ -5,17 +5,15 @@ description: Kontaktformular für Ihre Anliegen
 permalink: /kontakt/
 ---
 
-## So erreichen Sie uns
+## Kontakt für normale Anliegen
 
-**Kein Notfall?**
+**Kein Notfall - normales Problem:**
 Füllen Sie das Formular unten aus.
 Wir antworten in 24 Stunden.
 
-**NOTFALL?**
-(Wasser läuft aus, keine Heizung im Winter, Gasgeruch)
-→ Rufen Sie sofort die Notfallnummer an!
+**NOTFALL?** (Wasser läuft, keine Heizung, Gasgeruch)
 
-**Notfallnummer:** [Nummer wird noch ergänzt]
+→ [Zur Notfall-Seite](/notfall/) - Sofort anrufen!
 
 ---
 
