@@ -1,5 +1,5 @@
 ---
-title: HELIM – Haus- und Eigentumsmanagement für Liegenschaften
+title: HELIM – Haus, Eigentum, Liegenschaften - Immobilien Management
 layout: home
 description: Strukturierte Immobilienverwaltung - Klare Prozesse für Ihre Anliegen
 intro_image: false
