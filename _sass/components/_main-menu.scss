@@ -9,15 +9,16 @@
     justify-content: flex-start;
     > li {
       list-style: none;
-      font-size: 1rem;
+      font-size: 1.25rem;
       > a {
-        padding: 10px 12px 10px 12px;
+        padding: 12px 20px;
         display: inline-block;
-        font-weight: 500;
+        font-weight: 600;
         text-decoration: none;
         color: $primary;
         &:hover {
           text-decoration: underline;
+          color: $primary-dark;
         }
       }
       &.active {

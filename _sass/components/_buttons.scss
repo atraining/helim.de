@@ -1,13 +1,13 @@
 .button {
   white-space: nowrap;
   display: inline-block;
-  height: 40px;
-  line-height: 40px;
+  height: 44px;
+  line-height: 44px;
   padding: 0 14px;
   //box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
   background: $primary;
   border-radius: 4px;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.025em;
@@ -21,5 +21,90 @@
     transform: translateY(-1px);
     //box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
     text-decoration: none;
+  }
+  &:focus {
+    outline: 3px solid $primary-light;
+    outline-offset: 2px;
+  }
+}
+
+.button-question {
+  background: $primary;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 30px;
+  height: auto;
+  line-height: 1.4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border: 3px solid darken($primary, 15%);
+  position: relative;
+  &:hover {
+    background-color: $primary-light;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.35), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  &:focus {
+    outline: 3px solid $primary-light;
+    outline-offset: 2px;
+  }
+  &::after {
+    content: " ▶";
+    font-size: 18px;
+    margin-left: 8px;
+  }
+}
+
+.button-problem {
+  background: #ffc107;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 30px;
+  height: auto;
+  line-height: 1.4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border: 3px solid darken(#ffc107, 20%);
+  position: relative;
+  &:hover {
+    background-color: lighten(#ffc107, 10%);
+    color: #000000;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.35), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  &:focus {
+    outline: 3px solid darken(#ffc107, 10%);
+    outline-offset: 2px;
+    color: #000000;
+  }
+  &::after {
+    content: " ▶";
+    font-size: 18px;
+    margin-left: 8px;
+  }
+}
+
+.button-emergency {
+  background: #dc3545;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 30px;
+  height: auto;
+  line-height: 1.4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border: 3px solid darken(#dc3545, 15%);
+  position: relative;
+  &:hover {
+    background-color: lighten(#dc3545, 10%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.35), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  &:focus {
+    outline: 3px solid lighten(#dc3545, 20%);
+    outline-offset: 2px;
+  }
+  &::after {
+    content: " ▶";
+    font-size: 18px;
+    margin-left: 8px;
   }
 }
