@@ -1,5 +1,5 @@
 ---
-title: helim.de - Ihre Hausverwaltung
+title: HELIM – Haus- und Eigentumsmanagement für Liegenschaften
 layout: home
 description: Strukturierte Immobilienverwaltung - Klare Prozesse für Ihre Anliegen
 intro_image: false
