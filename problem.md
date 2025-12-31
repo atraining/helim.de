@@ -148,7 +148,7 @@ permalink: /problem/
                     id="helmFile"
                     name="file"
                     role="uploadcare-uploader"
-                    data-public-key="demopublickey"
+                    data-public-key="5809383157500e7c854c"
                     data-images-only="false"
                     data-multiple="true"
                 />
