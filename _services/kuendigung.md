@@ -31,9 +31,11 @@ Nicht einfach aufhören zu zahlen!
 
 **Kündigungsfrist = Wie lange vorher Sie Bescheid sagen müssen**
 
-**Meist:**
+**Häufig:**
 - Kündigungsfrist: 3 Monate
 - Zum Monatsende
+
+**Schauen Sie in Ihren Mietvertrag!**
 
 **Wichtig:**
 - Brief muss vor dem 3. des Monats beim Vermieter sein!
@@ -57,7 +59,7 @@ Dort steht die Kündigungsfrist.
 - Manchmal: 1 Monat
 
 **Unsicher?**
-→ FRAGE Button unten klicken
+→ Frage
 → Wir schauen in Ihren Vertrag!
 
 ## Brief schreiben
@@ -98,7 +100,7 @@ Beweis dass der Brief angekommen ist!
 **Wie?**
 - Brief zur Post bringen
 - "Einschreiben" kaufen
-- Kostet ca. 3-4€
+- Kostet wenig Geld
 
 **Beleg aufheben!**
 
@@ -147,7 +149,7 @@ Vermieter braucht einen Grund!
 4. **Wirtschaftliche Gründe**
 
 **Kündigung bekommen?**
-→ PROBLEM Button unten klicken
+→ Problem
 → Sofort Hilfe holen!
 → Nicht ignorieren!
 
@@ -188,7 +190,7 @@ Kündigungsfrist beachten!
 **2. Einschreiben verschicken!**
 
 Beweis ist wichtig!
-- Kostet 3-4€
+- Kostet wenig Geld
 - Spart Ärger!
 
 **3. Briefvorlage nutzen!**
@@ -210,26 +212,25 @@ Wichtig für später:
 - Brief richtig?
 - Nachmieter erlaubt?
 
-→ FRAGE Button unten klicken
-→ Kostenlose Beratung!
+→ Frage
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## So kündigen Sie richtig
 
-**Richtig kündigen spart Geld!**
+**Wichtig zu beachten:**
 
 **1. Rechtzeitig kündigen**
-- Brief 1 Woche zu spät?
-- = 1 Monat mehr Miete
-- = 500€ extra!
+- Brief zu spät?
+- = Länger Miete zahlen
+- = Viel Geld extra!
 
 **2. Nachmieter finden**
-- 2 Monate früher raus
-- = 1.000€ gespart!
+- Früher raus möglich
+- = Kürzere Kündigungsfrist
 
 **3. Einschreiben nutzen**
-- Kostet 4€
+- Kostet wenig
 - Spart Ärger
 - Beweis bei Streit
 

@@ -6,109 +6,135 @@ weight: 9
 
 ## Muss ich beim Auszug renovieren?
 
-**Das kommt auf Ihren Mietvertrag an!**
+**Das steht in Ihrem Mietvertrag!**
 
-Viele alte Klauseln im Mietvertrag sind ungültig.
-Wir schauen uns das gerne für Sie an.
+Schauen Sie in Ihren Mietvertrag:
+- Was steht zu Renovierung?
+- Was steht zu Schönheitsreparaturen?
+
+**Diese Regeln müssen Sie beachten!**
+
+**Unsicher was gemeint ist?**
+→ Frage
 
 ## Was steht im Mietvertrag?
 
-**Häufige Klauseln:**
+**Häufige Regelungen:**
 
-1. "Mieter muss beim Auszug streichen"
-2. "Schönheitsreparaturen trägt der Mieter"
-3. "Wohnung muss renoviert übergeben werden"
-4. "Mieter muss alle 3 Jahre streichen"
-
-**Viele dieser Klauseln können unwirksam sein!**
-
-Das hängt vom genauen Wortlaut ab.
-
-## Was bedeutet das für Sie?
-
-**Oft müssen Sie nicht:**
-- Wände streichen
-- Türen streichen
-- Fenster streichen
-- Heizkörper streichen
-- Tapezieren
-
-**Sie müssen:**
-- ✅ Wohnung sauber putzen
-- ✅ Eigene Sachen mitnehmen
-- ✅ Nur echte Schäden beheben
-
-**Unsicher? Fragen Sie uns!**
-→ FRAGE Button unten klicken
-→ Wir prüfen Ihren Mietvertrag
-
-## Was ist normale Abnutzung?
-
-**Normal = Sie haben die Wohnung benutzt**
-
-Das ist in Ordnung:
-- Kleine Kratzer an den Wänden
-- Farbe ist alt geworden
-- Türen etwas abgenutzt
-- Boden etwas abgelaufen
-- Dübellöcher (für Bilder und Regale)
-
-**Oft müssen Sie dafür nicht zahlen!**
+1. "Schönheitsreparaturen trägt der Mieter"
+2. "Wohnung renoviert übergeben"
+3. "Nach X Jahren streichen"
 
 **Wichtig:**
-- Normal wohnen = ok
-- Kaputt machen = Sie zahlen
+Lesen Sie genau was in IHREM Vertrag steht!
+
+**Fragen zum Vertrag?**
+→ Frage
 
 ## Was sind Schönheitsreparaturen?
 
 **Das Wort steht oft im Vertrag.**
 
-Schönheitsreparaturen = Renovieren, Streichen
+Schönheitsreparaturen bedeutet meist:
+- Wände streichen
+- Türen streichen
+- Fenster streichen
+- Heizkörper streichen
 
-Viele Klauseln zu Schönheitsreparaturen sind ungültig.
-Das kommt auf die genaue Formulierung an.
+**Was genau Sie machen müssen:**
+→ Steht in Ihrem Mietvertrag!
 
-**Wir prüfen das für Sie:**
-→ FRAGE Button unten klicken
+## Normal benutzt oder kaputt gemacht?
 
-## Vermieter verlangt Renovierung?
+**Wichtig zu verstehen:**
 
-**So reagieren Sie:**
+**Normale Abnutzung:**
+- Sie haben normal gewohnt
+- Kleine Kratzer
+- Farbe ist alt geworden
+- Boden etwas abgelaufen
+- Dübellöcher für Bilder
 
-1. **Ruhig bleiben**
-   - Nicht sofort ja sagen
-   - Nicht unterschreiben
+**Schäden:**
+- Große Löcher in der Wand
+- Kaputte Tür
+- Große Flecken
+- Absichtlich beschädigt
 
-2. **Mietvertrag lesen**
-   - Was steht genau drin?
-   - Welche Klausel?
+**Regel:**
+- Normal benutzt = Ok
+- Kaputt gemacht = Sie zahlen!
 
-3. **Uns kontaktieren**
-   - FRAGE Button unten klicken
-   - Wir prüfen Ihren Vertrag
-   - Wir sagen Ihnen: Was müssen Sie wirklich?
+## Wohnung beim Auszug übergeben
 
-4. **Eventuell Brief schreiben**
-   - Wenn nötig
-   - Nutzen Sie unsere Vorlage:
-   - **→ [Briefvorlagen kostenlos](https://der-walter.de/briefe/)**
+**Das müssen Sie auf jeden Fall machen:**
 
-## Übergabeprotokoll wichtig!
+**1. Gründlich putzen**
+- Alle Räume putzen
+- Küche sauber
+- Bad sauber
+- Fenster putzen
+- Böden wischen
+
+**2. Alle Schlüssel zurückgeben**
+- Wohnungsschlüssel
+- Hausschlüssel
+- Briefkastenschlüssel
+- Kellerschlüssel
+- ALLE Schlüssel!
+
+**3. Eigene Sachen mitnehmen**
+- Möbel
+- Lampen
+- Alles was Ihnen gehört
+- Müll entsorgen
+
+**4. Schäden beheben**
+- Was Sie kaputt gemacht haben
+- Große Löcher zumachen
+- Kaputtes reparieren
+
+## Renovierung - Was ist nötig?
+
+**Das kommt auf Ihren Mietvertrag an!**
+
+**Schauen Sie in Ihren Vertrag:**
+- Steht etwas zu Renovierung?
+- Steht etwas zu Schönheitsreparaturen?
+- Wie lange haben Sie gewohnt?
+
+**Sie haben geraucht?**
+→ Wände streichen ist nötig!
+→ [Rauchen](/anliegen/rauchen/)
+
+**Sie haben Wände bunt gestrichen?**
+→ Weiß streichen ist nötig!
+
+**Unsicher was Sie machen müssen?**
+→ Frage
+
+## Übergabeprotokoll - Sehr wichtig!
 
 **Beim Einzug UND beim Auszug:**
 
 Machen Sie ein Übergabeprotokoll!
 
-**Warum?**
-- Beweist: Was war schon vorher kaputt?
-- Beweist: Was ist wirklich neu kaputt?
-- Schützt Sie
+**Warum beim Einzug?**
+- Beweist: Was war schon vorher da?
+- Beweist: Was war schon alt?
+- Schützt Sie!
+
+**Warum beim Auszug?**
+- Zeigt: Was ist jetzt da?
+- Dokumentiert den Zustand
+- Beide wissen Bescheid
 
 **So geht's:**
 1. Zusammen mit Vermieter durch Wohnung gehen
 2. Alles aufschreiben
 3. Fotos machen
 4. Beide unterschreiben
+5. Kopie behalten!
 
 **Nutzen Sie unser Tool:**
 → [Übergabeprotokoll kostenlos](https://der-walter.de/protokoll/)
@@ -122,105 +148,47 @@ Dort können Sie:
 
 **Mehr Infos:**
 → [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
+→ [Kaution zurückbekommen](/anliegen/kaution/)
 
-## Was müssen Sie beim Auszug machen?
-
-**Diese Dinge sind Pflicht:**
-
-1. **Sauber machen**
-   - Putzen (normal sauber)
-   - Müll raus
-   - Eigene Sachen raus
-
-2. **Alle Schlüssel zurückgeben**
-   - Wohnungsschlüssel
-   - Hausschlüssel
-   - Briefkasten
-   - Keller
-   - ALLE Schlüssel!
-
-3. **Übergabetermin machen**
-   - Protokoll ausfüllen
-   - → [Protokoll](https://der-walter.de/protokoll/)
-   - → [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
-
-4. **Schäden besprechen**
-   - Ehrlich sein
-   - Was ist wirklich kaputt?
-   - Was ist normal?
-
-## Vermieter behält Kaution für Renovierung?
-
-**Fragen Sie uns zuerst!**
-
-Oft ist das nicht berechtigt.
+## Vermieter fordert Renovierung?
 
 **So gehen Sie vor:**
 
-1. **Uns kontaktieren**
-   - FRAGE Button unten klicken
-   - Wir prüfen: Ist das berechtigt?
-   - Wir sagen Ihnen: Was tun?
+**1. Mietvertrag lesen**
+- Was steht drin?
+- Was haben Sie unterschrieben?
 
-2. **Eventuell Brief schreiben**
-   - Kaution zurückfordern
-   - **Nutzen Sie Briefvorlage:**
-   - → [Briefe schreiben](https://der-walter.de/briefe/)
+**2. Uns fragen wenn unklar**
+→ Frage
 
-3. **Frist setzen**
-   - 2 Wochen Zeit geben
-   - Nicht zurückbekommen?
+**3. Mit Vermieter sprechen**
+- Was genau wird verlangt?
+- Warum?
+- Wie kann man es lösen?
 
-4. **Weiter mit uns besprechen**
-   - PROBLEM Button unten klicken
-   - Wir helfen Ihnen
+**4. Gemeinsam Lösung finden**
+→ Frage
 
-**Mehr Infos:**
-→ [Kaution zurückbekommen](/anliegen/kaution/)
+## Renovierungskosten
 
-## Tipps für den Auszug
+**Wer renoviert?**
 
-**So vermeiden Sie Probleme:**
+Das kommt auf den Vertrag an:
 
-1. **Beim Einzug:**
-   - Übergabeprotokoll machen!
-   - Fotos machen von allem
-   - Was ist schon alt/kaputt?
-   - → [Einzugsprotokoll](https://der-walter.de/protokoll/)
-   - → [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
+**Option 1: Sie renovieren selbst**
+- Malerarbeiten machen
+- Oder Firma beauftragen
+- Kostet Zeit und Geld
 
-2. **Während der Mietzeit:**
-   - Schäden sofort melden
-   - Nicht selbst reparieren
-   - Dokumentieren
-   - → [Reparaturen](/anliegen/reparaturen/)
+**Option 2: Vermieter renoviert**
+- Kosten werden berechnet
+- Von Kaution abgezogen
+- Oder extra Rechnung
 
-3. **Beim Auszug:**
-   - Wohnung sauber übergeben
-   - Nur echte Schäden beheben
-   - Übergabeprotokoll machen
-   - → [Auszugsprotokoll](https://der-walter.de/protokoll/)
+**Kosten können sein:**
+- Maler: Kosten pro qm
+- Tiefenreinigung: TEUER
+- Reparaturen: Je nach Schaden
 
-4. **Bei Forderungen:**
-   - Uns fragen BEVOR Sie renovieren
-   - Uns fragen BEVOR Sie zahlen
-   - → FRAGE Button unten klicken
-
----
-
-## 💰 Tipp: Geld sparen!
-
-**Renovierung kann teuer sein: 1.000€ bis 3.000€!**
-
-Oft müssen Sie das nicht bezahlen!
-
-**So sparen Sie:**
-- Protokoll beim Einzug machen
-- Protokoll beim Auszug machen
-- Uns fragen BEVOR Sie renovieren
-- Uns fragen BEVOR Sie zahlen
-
-**Mehr Infos:**
-→ [Geld sparen als Mieter](/anliegen/geld-sparen/)
-→ [Kaution zurückbekommen](/anliegen/kaution/)
-→ [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
+**Wichtig:**
+Ordentliche Übergabe ist wichtig!

@@ -32,15 +32,15 @@ weight: 1
 ## Heizung ganz kaputt?
 
 **Winter (kalt):** NOTFALL!
-→ NOTFALL Button unten klicken
+→ Notfall
 
 **Sommer (warm):** Kein Notfall
-→ PROBLEM Button unten klicken
+→ Problem
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Wichtiger Tipp
 
-Heizungsprobleme sofort melden spart viel Geld!
-Lesen Sie: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
+Heizungsprobleme sofort melden ist wichtig!
+Lesen Sie: **[So machen Sie es richtig](/anliegen/geld-sparen/)**
 

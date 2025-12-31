@@ -73,10 +73,10 @@ Schlüsseldienst = Firma, die Tür öffnet
 ### Wie viel kostet das?
 
 **Normal (Werktags, tagsüber):**
-- 80-150€
+- TEUER
 
-**Teuer (Nachts, Wochenende, Feiertag):**
-- 150-300€
+**Sehr teuer (Nachts, Wochenende, Feiertag):**
+- SEHR TEUER
 
 **Das zahlen SIE!**
 Nicht der Vermieter.
@@ -93,11 +93,11 @@ Nicht der Vermieter.
 **Schlechte Schlüsseldienste (Abzocke):**
 ❌ Sagen keinen Preis
 ❌ Sehr weit weg
-❌ Wollen 500€ oder mehr
+❌ Wollen VIEL ZU VIEL Geld
 
 **Tipps:**
 1. Preis am Telefon fragen!
-2. Nicht mehr als 150€ (tagsüber)
+2. Vergleichen Sie Preise
 3. Mehrere Firmen anrufen
 4. Lokale Firma aus Ihrer Stadt
 
@@ -113,11 +113,11 @@ Jemand könnte den Schlüssel finden.
 Dann kann er rein.
 
 **Kosten:**
-- Neues Schloss: 100-300€
-- Neue Schlüssel: 50-100€
+- Neues Schloss: TEUER
+- Neue Schlüssel: Zusätzliche Kosten
 
 **Wer zahlt?**
-→ FRAGE Button unten klicken
+→ Frage
 → Kommt auf Situation an
 
 ## Tür ist nur zugefallen?
@@ -129,14 +129,14 @@ Dann kann er rein.
 Schlüsseldienst kann oft:
 - Tür schnell öffnen
 - Ohne Schaden
-- Günstiger: 80-120€
+- GÜNSTIGER
 
 **Tür abgeschlossen?**
 
 Teurer:
 - Schloss muss auf
 - Dauert länger
-- 150-300€
+- TEURER
 
 ## Wie verhindern?
 
@@ -146,15 +146,18 @@ Teurer:
 
 Schlüssel kopieren:
 - Beim Schlüsseldienst
-- Kostet 10-30€
+- GÜNSTIG
 - Zu Freund/Familie geben
 
 **Darf ich Schlüssel kopieren?**
 
-Meist ja!
+**Schauen Sie in Ihren Mietvertrag!**
+
+Häufig erlaubt.
 
 **Mietvertrag sagt "nein"?**
-→ FRAGE Button unten klicken
+→ Dann nicht kopieren
+→ Bei Fragen: Frage
 
 **Tipp 2: Schlüssel ans Band**
 
@@ -184,12 +187,10 @@ Aber:
 
 **Wenn Sie möchten:**
 
-Brief an Vermieter:
 "Können Sie einen Ersatzschlüssel aufbewahren?
 Für Notfälle."
 
-**Briefvorlage:**
-→ [Briefe schreiben](https://der-walter.de/briefe/)
+→ Frage
 
 ## Nach dem Aussperren
 
@@ -224,26 +225,26 @@ Sie sind ausgesperrt = Sie zahlen.
 **Schloss kaputt gegangen?**
 
 → [Reparaturen](/anliegen/reparaturen/)
-→ FRAGE Button unten klicken
+→ Frage
 
 **Schlüssel im Schloss abgebrochen?**
 
 Schlüsseldienst kann helfen.
-Kostet 100-200€.
+Kostet Geld.
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## So vermeiden Sie Aussperrung
 
-**Aussperren vermeiden spart viel Geld!**
+**Vorsorgen ist wichtig!**
 
-**Kosten vermeiden:**
-- Ersatzschlüssel machen: 15€
-- = 150€ Schlüsseldienst gespart!
+**Empfehlung:**
+- Ersatzschlüssel machen lassen: GÜNSTIG
+- = Kein teurer Schlüsseldienst nötig
 
 **Ersatzschlüssel zu Vermieter geben:**
-- Kostenlos
-- Immer Hilfe da
+- Wir bewahren ihn auf
+- Hilfe bei Aussperrung möglich
 
 **Bei Aussperrung:**
 - Erst Vermieter anrufen!
@@ -252,4 +253,4 @@ Kostet 100-200€.
 - Mehrere Angebote einholen!
 
 **Bei Fragen:**
-→ FRAGE Button unten klicken
+→ Frage

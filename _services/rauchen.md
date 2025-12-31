@@ -6,14 +6,15 @@ weight: 18
 
 ## Darf ich in der Wohnung rauchen?
 
-**Kommt darauf an!**
+**Nicht in der Wohnung rauchen!**
 
-**In Ihrer Wohnung:**
-Meist dürfen Sie rauchen.
-Es ist Ihre Wohnung.
+**Warum nicht?**
+- Sie müssen beim Auszug renovieren!
+- Wände werden gelb
+- Sehr teuer für Sie!
+- SEHR TEUER!
 
-**Aber:**
-Es gibt Folgen!
+**Besser: Draußen oder auf Balkon rauchen**
 
 ## Was passiert wenn ich rauche?
 
@@ -35,9 +36,9 @@ Sie müssen die Wohnung renovieren!
 
 **Darf ich auf dem Balkon rauchen?**
 
-**Meist ja!**
+**Schauen Sie in Ihren Mietvertrag!**
 
-Aber:
+Häufig erlaubt, aber:
 - Nicht zu viel
 - Nicht ständig
 - Fenster vom Nachbar zu
@@ -46,27 +47,27 @@ Aber:
 
 → [Lärm und Nachbarn](/anliegen/laerm-nachbarn/)
 
-**Vermieter verbietet Balkon-Rauchen?**
+**Vermieter hat etwas zum Rauchen gesagt?**
 
-Das ist oft nicht erlaubt.
+Sprechen Sie mit dem Vermieter.
 
-**Unsicher?**
-→ FRAGE Button unten klicken
+**Fragen?**
+→ Frage
+→ Wir helfen Ihnen zu verstehen
 
 ## Was steht im Mietvertrag?
 
-**Mietvertrag sagt: "Rauchen verboten"?**
+**Schauen Sie in Ihren Mietvertrag:**
 
-Das ist meist ungültig!
+Was steht zum Thema Rauchen?
+- Ist Rauchen erwähnt?
+- Gibt es Einschränkungen?
 
-In Ihrer Wohnung dürfen Sie meist rauchen.
+**Beachten Sie die Regeln im Vertrag!**
 
-**Aber:**
-Schauen Sie in Ihren Vertrag!
-
-**Unsicher ob gültig?**
-→ FRAGE Button unten klicken
-→ Wir prüfen das für Sie
+**Sie verstehen den Vertrag nicht?**
+→ Frage
+→ Wir erklären es Ihnen
 
 ## Tipps zum Rauchen
 
@@ -132,7 +133,7 @@ Planen Sie:
    - Auf anderen Balkon gehen
 
 3. **Brief vom Vermieter?**
-   → FRAGE Button unten klicken
+   → Frage
    → Wir helfen Ihnen
 
 ## Cannabis / Marihuana rauchen
@@ -152,19 +153,19 @@ Auch wenn legal:
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Wichtig zu wissen
 
-**Rauchen in der Wohnung kostet Geld!**
+**Rauchen in der Wohnung verursacht Kosten!**
 
 **Beim Auszug zahlen Sie:**
-- Wände streichen: 500-1.500€
-- Tiefenreinigung: 200-500€
+- Wände streichen: SEHR TEUER
+- Tiefenreinigung: TEUER
 - Eventuell: [Kaution](/anliegen/kaution/) weg!
 
-**Besser:**
+**Empfehlung:**
 Draußen oder auf Balkon rauchen
 = Keine Renovierung nötig
-= Geld gespart!
+= Sie haben die Wohnung geschont
 
 **Bei Fragen:**
-→ FRAGE Button unten klicken
+→ Frage

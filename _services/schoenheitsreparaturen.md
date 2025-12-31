@@ -6,257 +6,223 @@ weight: 20
 
 ## Was sind Schönheitsreparaturen?
 
-**Schönheitsreparaturen = Kleine Verschönerungen in der Wohnung**
+**Schönheitsreparaturen = Kleine Verschönerungen durch normales Wohnen**
 
-**Zum Beispiel:**
+Wenn Sie in einer Wohnung leben, nutzen Sie sie jeden Tag.
+Das ist normal und gut!
+
+**Aber:**
+Durch das normale Wohnen wird die Wohnung benutzt:
+- Wände werden schmutzig
+- Farbe wird alt
+- Kleine Abnutzungen entstehen
+
+**Das ist völlig normal beim Wohnen!**
+
+## Was gehört zu Schönheitsreparaturen?
+
+**Kleine Arbeiten durch normales Wohnen:**
+
 - Wände streichen
 - Tapezieren
 - Türen und Fenster streichen (innen)
 - Heizkörper streichen
 - Decken streichen
 
-**NICHT dazu gehören:**
-- Kaputte Sachen reparieren
-- Große Arbeiten
-- Außen streichen
+**NICHT dazu gehören große Sachen:**
+- Kaputte Heizung
+- Kaputte Rohre
+- Kaputte Fenster
+- Undichtes Dach
+- Kaputte Elektrik
 
-→ Das sind [Reparaturen](/anliegen/reparaturen/)
+**Große Reparaturen zahlt der Vermieter!**
+→ [Reparaturen melden](/anliegen/reparaturen/)
 
-## Muss ich die Wohnung streichen?
+## Wer macht Schönheitsreparaturen?
 
-**Kommt darauf an!**
+**Das steht in Ihrem Mietvertrag!**
 
-**Wichtig:**
-Viele Klauseln im Mietvertrag sind ungültig!
+**Schauen Sie in Ihren Vertrag:**
+- Was steht zu Schönheitsreparaturen?
+- Was steht zu Renovierung?
+- Was steht zu Streichen?
 
-### Was steht im Mietvertrag?
+**Diese Vereinbarungen gelten!**
 
-**Schauen Sie in Ihren Mietvertrag:**
+**Sie verstehen Ihren Vertrag nicht?**
+→ Frage
 
-Steht da etwas über:
-- Streichen
-- Renovieren
-- Schönheitsreparaturen
+## Normal benutzt ist ok!
 
-**Unsicher was das bedeutet?**
-→ FRAGE Button unten klicken
-→ Wir prüfen Ihren Vertrag kostenlos
+**Wichtig zu verstehen:**
 
-## Wann muss ich NICHT streichen?
+**Normales Wohnen:**
+Sie wohnen, Sie leben, Sie benutzen die Wohnung.
+Das ist richtig so!
 
-**Diese Klauseln sind oft ungültig:**
+**Durch normales Wohnen entstehen:**
+- Kleine Kratzer
+- Dübellöcher (für Bilder)
+- Abgenutzte Stellen
+- Farbe wird alt
 
-❌ "Beim Auszug renovieren - egal wie lange Sie wohnen"
-→ Oft ungültig!
+**Das ist in Ordnung!**
 
-❌ "Alle 3 Jahre streichen"
-→ Meist ungültig!
+**Aber:**
+Nach einigen Jahren sieht man die Benutzung.
+Dann sind Schönheitsreparaturen normal.
 
-❌ "Wohnung wurde unrenoviert übergeben, Sie müssen trotzdem renovieren"
-→ Ungültig!
+## Starke Abnutzung vs. Normale Abnutzung
 
-❌ "Sie zahlen für Renovierung" (Pauschale im Mietvertrag)
-→ Oft ungültig!
-
-**Solche Klausel im Vertrag?**
-→ FRAGE Button unten klicken
-→ Wir sagen Ihnen ob gültig!
-
-## Wann muss ich streichen?
-
-**Sie müssen meist nur streichen wenn:**
-
-✅ Wohnung war renoviert beim Einzug
-✅ Vertrag sagt klar: "Bei starker Abnutzung"
-✅ Wohnung ist wirklich stark abgenutzt
-✅ Sie haben sehr lange gewohnt
-
-**"Stark abgenutzt" bedeutet:**
-- Viele Löcher in Wand
-- Sehr schmutzige Wände
-- Abgeplatzte Farbe
-- → [Rauchen](/anliegen/rauchen/) - gelbe Wände
-
-**Normale Abnutzung:**
-- Kleine Gebrauchsspuren
+**Normale Abnutzung (nach vielen Jahren):**
+- Farbe ist alt geworden
 - Leichte Verschmutzung
-- Ein paar kleine Löcher
+- Ein paar Dübellöcher
+- Leichte Kratzer
 
-= Das müssen Sie NICHT streichen!
+**Starke Abnutzung:**
+- Viele große Löcher in Wand
+- Sehr schmutzige Wände
+- Sie haben geraucht (gelbe Wände)
+  → [Rauchen](/anliegen/rauchen/)
+- Wände bunt gestrichen
+- Stark beschädigt
 
-## Beim Auszug
+**Bei starker Abnutzung:**
+Renovierung ist nötig!
+Sie zahlen die Renovierung!
 
-**Sie ziehen aus:**
+## Wann sind Schönheitsreparaturen nötig?
 
-**Schritt 1: Mietvertrag lesen**
+**Das kommt an auf:**
 
-Was steht drin über Schönheitsreparaturen?
+**1. Wie lange haben Sie gewohnt?**
+- 1 Jahr? Normalerweise nichts nötig
+- 3-5 Jahre? Leichte Abnutzung normal
+- 5-10 Jahre? Schönheitsreparaturen werden erwartet
+- 10+ Jahre? Renovierung nötig
 
-**Schritt 2: Uns fragen**
+**2. Wie war die Wohnung beim Einzug?**
+- Frisch renoviert? Sie müssen beim Auszug auch renoviert übergeben
+- Alt? Protokoll wichtig - zeigt Zustand beim Einzug
 
-→ FRAGE Button unten klicken
-→ Wir sagen: Müssen Sie streichen?
+**3. Wie haben Sie gewohnt?**
+- Normal? Ok!
+- Geraucht? Streichen nötig!
+- Haustiere? Extra Reinigung nötig!
 
-**Schritt 3: Wohnung prüfen**
+**4. Was steht im Vertrag?**
+- Das ist wichtig!
+- Lesen Sie Ihren Vertrag!
 
-- Wie sieht die Wohnung aus?
-- Stark abgenutzt?
-- Oder normal?
+**Unsicher was nötig ist?**
+→ Frage
 
-**Schritt 4: Entscheiden**
-
-Renovieren oder nicht?
-
+**Mehr Infos:**
 → [Renovierung beim Auszug](/anliegen/renovierung-auszug/)
-
-## Vermieter sagt: "Sie müssen streichen!"
-
-**Vermieter fordert Renovierung?**
-
-**Nicht sofort zahlen!**
-
-**Erstens: Prüfen**
-
-→ FRAGE Button unten klicken
-→ Wir prüfen:
-  - Ist die Forderung berechtigt?
-  - Was sagt Ihr Vertrag?
-  - Wie ist der Zustand?
-
-**Zweitens: Antworten**
-
-Brief an Vermieter:
-"Ich prüfe das. Ich melde mich."
-
-**Briefvorlage:**
-→ [Briefe schreiben](https://der-walter.de/briefe/)
-
-**Drittens: Verhandeln**
-
-Oft kann man sich einigen:
-- Teilweise renovieren
-- Abzug von [Kaution](/anliegen/kaution/)
-- Kompromiss finden
 
 ## Wie viel kostet Renovierung?
 
-**Wenn Sie renovieren müssen:**
+**Wenn Schönheitsreparaturen nötig sind:**
 
 **Selber machen:**
-- Farbe: 100-300€
-- Material: 50-100€
+- Farbe und Material kaufen
 - Ihre Zeit: viele Stunden
+- Günstiger!
 
 **Maler beauftragen:**
-- 1-Zimmer: 500-800€
-- 2-Zimmer: 800-1.200€
-- 3-Zimmer: 1.200-2.000€
-- 4-Zimmer: 2.000-3.000€
+- 1-Zimmer: TEUER
+- 2-Zimmer: TEURER
+- 3-Zimmer: SEHR TEUER
+- 4-Zimmer: SEHR TEUER
 
-**Deshalb:**
-Erst prüfen ob Sie wirklich müssen!
+**Alternativ:**
+Vermieter macht es und rechnet ab:
+- Kosten werden von [Kaution](/anliegen/kaution/) abgezogen
+- Oder Rechnung wird geschickt
 
-## Wohnung war unrenoviert
+## So halten Sie die Kosten niedrig
 
-**Wohnung war nicht renoviert beim Einzug?**
+**Während der Mietzeit:**
 
-**Dann:**
-Sie müssen meist NICHT renovieren beim Auszug!
-
-**Auch wenn Mietvertrag sagt "ja":**
-Das ist meist ungültig!
-
-**Warum?**
-Sie können nicht renovieren, was schon unrenoviert war.
-
-**Vermieter sagt trotzdem "ja"?**
-→ FRAGE Button unten klicken
-
-## Tipps zu Schönheitsreparaturen
-
-**1. Protokoll beim Einzug**
-
-Beim Einzug:
-- Fotos machen
-- Zustand aufschreiben
-- → [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
-
-**Warum?**
-Beim Auszug wissen Sie:
-So war es beim Einzug!
-
-**2. Während dem Wohnen**
-
-Vorsichtig sein:
+**1. Vorsichtig sein**
 - Nicht zu viele Löcher bohren
 - Wände sauber halten
-- Flecken gleich wegmachen
+- Flecken sofort entfernen
+- Nicht rauchen in der Wohnung
 
-= Weniger Renovierung später!
+**2. Probleme melden**
+- Schäden sofort melden
+- Nicht verstecken!
+- → [Reparaturen](/anliegen/reparaturen/)
 
-**3. Beim Auszug**
+**3. Gut aufpassen**
+- Wohnung pflegen
+- Sauber halten
+- Schonend benutzen
 
-Erst prüfen:
-- Muss ich wirklich renovieren?
-- Was sagt Vertrag?
-- Uns fragen!
+= Weniger Renovierung beim Auszug!
 
-Dann entscheiden.
+## Beim Einzug vorbereiten
 
-**4. Vermieter fordert zu viel?**
+**Sehr wichtig: Übergabeprotokoll!**
 
-→ FRAGE Button unten klicken
-→ Wir helfen verhandeln
+**Beim Einzug machen:**
+1. Mit Vermieter durch Wohnung gehen
+2. Zustand aufschreiben
+3. Viele Fotos machen!
+4. Beide unterschreiben
+
+**Warum wichtig?**
+- Zeigt Zustand beim Einzug
+- Beim Auszug wissen Sie: So war es!
+- Schützt beide Seiten
+
+**Tool nutzen:**
+→ [Übergabeprotokoll kostenlos](https://der-walter.de/protokoll/)
+
+**Mehr Infos:**
+→ [Wohnungsübergabe](/anliegen/wohnungsuebergabe/)
+
+## Wer zahlt was?
+
+**Landlord (Vermieter) zahlt:**
+- Große Reparaturen
+- Kaputte Heizung
+- Kaputte Fenster
+- Undichtes Dach
+- Alte Rohre
+- Defekte Elektrik
+
+**Mieter (Sie) können zuständig sein für:**
+- Schönheitsreparaturen (je nach Vertrag)
+- Kleine Verschönerungen
+- Normale Abnutzung durch Wohnen
+
+**Das ist fair:**
+- Vermieter: Große, teure Sachen
+- Mieter: Kleine Schönheitsarbeiten (wenn im Vertrag)
 
 ## Häufige Fragen
 
-**Laminat/Teppich gehört dazu?**
+**Laminat/Teppich wechseln?**
 
 Nein!
 Das sind keine Schönheitsreparaturen.
-Das ist Bodenbelag.
+Das ist Bodenbelag = Vermieter zahlt!
 
 **Küche streichen?**
 
-Ja, wenn Küche fest eingebaut.
+Ja, wenn fest eingebaut.
 Nein, wenn Ihre eigene Küche.
 
 **Badezimmer?**
 
-Ja, aber:
-Fliesen = Nein
-Wände/Decke = Ja
+Wände/Decke: Ja
+Fliesen: Nein (Vermieter zahlt)
 
 **Balkon?**
 
 Nur innen (Wände).
-Nicht außen.
-
-**Nach 1 Jahr schon streichen?**
-
-Nein!
-Nach so kurzer Zeit nie renovieren müssen.
-
----
-
-## 💰 Tipp: Geld sparen!
-
-**Nicht unnötig renovieren!**
-
-**Viele zahlen zu viel:**
-- Vermieter sagt "streichen"
-- Mieter streicht sofort
-- Klausel war ungültig!
-- 1.500€ umsonst gezahlt!
-
-**Besser:**
-→ FRAGE Button unten klicken
-→ Wir prüfen kostenlos
-→ Sparen Sie Geld!
-
-**Auch wichtig:**
-→ [Kaution](/anliegen/kaution/) zurückfordern!
-→ [Wohnungsübergabe](/anliegen/wohnungsuebergabe/) richtig machen!
-
-**Bei Fragen:**
-→ FRAGE Button unten klicken
+Außen zahlt Vermieter.

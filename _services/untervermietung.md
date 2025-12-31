@@ -25,9 +25,7 @@ Es gibt verschiedene Fälle:
 
 **Ihr Partner will einziehen?**
 
-**Meist dürfen Sie das!**
-
-Sie sollten den Vermieter informieren (nicht unbedingt fragen).
+**Immer den Vermieter vorher fragen!**
 
 **Brief schreiben:**
 
@@ -44,16 +42,14 @@ In seltenen Fällen kann der Vermieter ablehnen:
 - Partner ist unzumutbar
 
 **Unsicher?**
-→ FRAGE Button unten klicken
+→ Frage
 
 ## Familie einziehen lassen
 
 **Ihr Kind will einziehen?**
 **Ihre Eltern wollen einziehen?**
 
-**Meist erlaubt!**
-
-Auch hier: Vermieter informieren.
+**Vermieter vorher fragen!**
 
 **Brief schreiben:**
 "Mein [Sohn/Tochter/Vater/Mutter] zieht bei mir ein.
@@ -93,9 +89,9 @@ Als Mitbewohner / Untermieter."
 - Anteil an [Nebenkosten](/anliegen/nebenkosten/)
 
 **Beispiel:**
-- Ihre Miete: 600€
-- Untermieter zahlt Ihnen: 300€
-- Sie zahlen Vermieter: 600€
+- Ihre Miete: XXX€
+- Untermieter zahlt Ihnen: Die Hälfte
+- Sie zahlen Vermieter: Volle Miete
 
 **WICHTIG: Nicht zu viel verlangen!**
 
@@ -183,8 +179,7 @@ Zum [Datum]."
 **Muss schriftlich sein!**
 
 **Untermieter geht nicht?**
-→ PROBLEM Button unten klicken
-→ Wir helfen!
+→ Problem
 
 ## Untermieter zahlt nicht?
 
@@ -225,67 +220,3 @@ Untermieter macht Ärger?
 **Deshalb:**
 - Untermieter informieren über Regeln
 - Bei Problemen: Ansprechen
-
-## Tipps zur Untervermietung
-
-**1. Immer fragen!**
-
-Außer bei Partner/Familie.
-
-Bei Freunden/Fremden:
-→ Immer Vermieter fragen!
-→ Schriftlich!
-
-**Briefvorlage:**
-→ [Briefe schreiben](https://der-walter.de/briefe/)
-
-**2. Vertrag machen!**
-
-Mit Untermieter Vertrag abschließen:
-- Schriftlich!
-- Alles regeln!
-
-**3. Nicht zu viel verlangen!**
-
-Miete für Untermieter:
-- Fair aufteilen
-- Kein Gewinn machen!
-
-**4. Verantwortung bedenken!**
-
-Sie sind verantwortlich für:
-- Mietzahlung
-- Schäden
-- Probleme
-
-**Gut überlegen:**
-Ist die Person vertrauenswürdig?
-
-**5. Vermieter informiert halten**
-
-- Person zieht ein? Informieren!
-- Person zieht aus? Informieren!
-
----
-
-## 💰 Tipp: Geld sparen!
-
-**Untervermietung kann Geld sparen!**
-
-**Vorteile:**
-- Miete teilen
-- [Nebenkosten](/anliegen/nebenkosten/) teilen
-
-**Beispiel:**
-- Ihre Miete: 600€
-- Untermieter zahlt: 300€
-- Sie zahlen nur noch: 300€
-- **Gespart: 300€ pro Monat = 3.600€ pro Jahr!**
-
-**Aber Achtung:**
-- Vermieter muss zustimmen!
-- Vertrag machen!
-- Vertrauenswürdige Person auswählen!
-
-**Bei Fragen:**
-→ FRAGE Button unten klicken

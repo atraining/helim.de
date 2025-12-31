@@ -23,15 +23,15 @@ weight: 6
 Diese Zahlung heißt "Warmmiete" und besteht aus 2 Teilen:
 
 **Beispiel:**
-- Kaltmiete: 500 Euro (nur für die Wohnung)
-- Nebenkosten: 100 Euro (für Wasser, Heizung, Müll)
-- **Warmmiete = 600 Euro** ← Das überweisen Sie!
+- Kaltmiete: XXX Euro (nur für die Wohnung)
+- Nebenkosten: XX Euro (für Wasser, Heizung, Müll)
+- **Warmmiete = XXX Euro** ← Das überweisen Sie!
 
-**Sie überweisen 600 Euro - fertig!**
+**Sie überweisen Ihre Warmmiete - fertig!**
 
-Die 600 Euro werden dann aufgeteilt:
-- 500 Euro gehen an den Vermieter (für die Wohnung)
-- 100 Euro werden gespart (für Wasser, Heizung, Müll)
+Die Warmmiete wird dann aufgeteilt:
+- Kaltmiete geht an den Vermieter (für die Wohnung)
+- Nebenkosten werden gespart (für Wasser, Heizung, Müll)
 
 ## Wie fülle ich die Überweisung aus?
 
@@ -39,7 +39,7 @@ Die 600 Euro werden dann aufgeteilt:
 
 **So füllen Sie die Überweisung aus:**
 
-1. **Betrag:** Ihre Warmmiete (z.B. 600 Euro)
+1. **Betrag:** Ihre Warmmiete
 
 2. **Verwendungszweck:** WICHTIG!
    Schreiben Sie Ihre Wohnungslage:
@@ -60,23 +60,23 @@ Wir müssen wissen: Welche Wohnung hat bezahlt?
 Ihr Name steht schon auf dem Konto.
 → Wir brauchen nur die Wohnungslage!
 
-**Falsch:** ❌ "Miete" oder nur "600 Euro"
+**Falsch:** ❌ "Miete" oder nur der Betrag
 **Richtig:** ✅ "Erdgeschoss links" oder "1. OG rechts"
 
 ## Warum jeden Monat bezahlen?
 
 **Das Problem:**
 Wasser, Heizung, Müll kosten viel Geld!
-Im ganzen Jahr vielleicht 1.200 Euro oder mehr.
+Im ganzen Jahr vielleicht VIEL GELD.
 
 **Ohne monatliche Zahlung:**
 - Sie bezahlen das ganze Jahr nichts
-- Am Ende: Sie müssen 1.200 Euro auf einmal zahlen!
+- Am Ende: Sie müssen VIEL GELD auf einmal zahlen!
 - Das ist sehr viel Geld auf einmal!
 
 **Mit monatlicher Zahlung (Nebenkosten):**
-- Sie zahlen jeden Monat z.B. 100 Euro
-- 100 Euro pro Monat = kleine Summe
+- Sie zahlen jeden Monat einen Teil
+- Kleine Summe pro Monat
 - Keine große Überraschung am Ende!
 
 → **Besser: Jeden Monat wenig bezahlen, als einmal viel!**
@@ -115,31 +115,31 @@ Diese Kosten sind in den Nebenkosten:
 
 **So funktioniert es:**
 
-Jeden Monat zahlen Sie z.B. 100 Euro Nebenkosten.
+Jeden Monat zahlen Sie einen Teil der Nebenkosten.
 Am Ende des Jahres zählen wir, wie viel Sie wirklich verbraucht haben.
 
 **Was passiert dann?**
 
 **Sie haben viel verbraucht:**
-- Jeden Monat bezahlt: 100 Euro = 1.200 Euro
-- Wirklich verbraucht: 1.400 Euro
-- **→ Nachzahlung: Sie müssen 200 Euro extra zahlen**
+- Jeden Monat bezahlt: Weniger als verbraucht
+- Wirklich verbraucht: Mehr
+- **→ Nachzahlung: Sie müssen extra zahlen**
 - Das ist teuer!
 
 **Sie haben wenig verbraucht:**
-- Jeden Monat bezahlt: 100 Euro = 1.200 Euro
-- Wirklich verbraucht: 1.000 Euro
-- **→ Rückzahlung: Sie bekommen 200 Euro zurück!**
-- Das ist gut!
+- Jeden Monat bezahlt: Mehr als verbraucht
+- Wirklich verbraucht: Weniger
+- **→ Rückzahlung möglich**
+- Sie haben sparsam gelebt!
 
-## Geld zurück vom Vermieter bekommen
+## Nebenkosten niedrig halten
 
 **Wichtig: Sie entscheiden!**
 
-Wenn Sie gut aufpassen, bekommen Sie Geld zurück.
+Wenn Sie gut aufpassen, bleiben die Nebenkosten niedrig.
 Wenn Sie nicht aufpassen, wird es teuer.
 
-**So bekommen Sie Geld zurück:**
+**So halten Sie Nebenkosten niedrig:**
 
 1. **Richtig heizen (nicht zu wenig!)**
    - Heizung auf Stufe 3 (die Zahlen am Drehknopf)
@@ -159,23 +159,23 @@ Wenn Sie nicht aufpassen, wird es teuer.
    - Wasserhahn tropft? Sofort melden!
    - Heizung macht Geräusche? Sofort melden!
 
-## Noch mehr Geld sparen?
+## Mehr Informationen
 
-**Sie können noch viel mehr sparen!**
+**Wichtig zu wissen:**
 
-Lesen Sie unseren Artikel: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
+Lesen Sie unseren Artikel: **[So machen Sie es richtig](/anliegen/geld-sparen/)**
 
-Dort lernen Sie:
-- Wie Sie bis zu 7.000 Euro sparen können
-- Warum ehrlich sein Geld spart
-- Wie Sie Ihre Kaution zurückbekommen
+Dort erfahren Sie:
+- Wie Sie Kosten niedrig halten
+- Warum ehrlich sein wichtig ist
+- Wie Sie die Wohnung gut behandeln
 - Was passiert wenn Sie Probleme verstecken (sehr teuer!)
 
-**→ [Jetzt lesen: Geld sparen](/anliegen/geld-sparen/)**
+**→ [Jetzt lesen](/anliegen/geld-sparen/)**
 
 ## Fragen zur Abrechnung?
 
-**FRAGE Button unten klicken**
+**Frage**
 
 Bitte sagen Sie uns:
 - Von wann bis wann? (Zeitraum)

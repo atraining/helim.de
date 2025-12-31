@@ -41,7 +41,7 @@ Zu viel Lärm muss nicht sein!
 ❌ Hund bellt ständig
 
 **Unsicher?**
-→ FRAGE Button unten klicken
+→ Frage
 
 ## Ruhezeiten beachten
 
@@ -84,10 +84,10 @@ Nochmal höflich ansprechen.
 
 Immer noch laut?
 
-Brief schreiben (an Nachbar):
+Schriftlich beschweren:
 "Es ist zu laut. Bitte Ruhezeiten einhalten."
 
-**Kopie aufheben!**
+**Dokumentation aufheben!**
 
 **Schritt 4: Vermieter informieren**
 
@@ -95,14 +95,11 @@ Nachbar ändert nichts?
 
 Jetzt: Vermieter informieren!
 
-**Brief an Vermieter schreiben:**
-
 "Mein Nachbar [Wohnung] macht zu viel Lärm.
 Ich habe schon mehrfach angesprochen.
 Bitte helfen Sie!"
 
-**Nutzen Sie unsere Briefvorlage:**
-→ [Briefe kostenlos schreiben](https://der-walter.de/briefe/)
+→ Problem
 
 **Schritt 5: Lärmprotokoll führen**
 
@@ -120,25 +117,25 @@ Was rein schreiben:
 - Beweis für Vermieter
 - Zeigt: Es passiert oft!
 
-## Mietminderung bei Lärm
+## Extreme Lärmsituationen
 
-**Zu viel Lärm = Eventuell Miete mindern**
+**Lärm ist sehr schlimm und dauerhaft?**
+
+In sehr extremen Fällen kann man über die Situation sprechen.
 
 **Aber nur wenn:**
 - Lärm ist wirklich sehr störend
-- Passiert oft (nicht nur 1x)
+- Passiert sehr oft (nicht nur 1x)
 - Sie haben Protokoll geführt
 - Sie haben Vermieter informiert
+- Vermieter konnte Problem nicht lösen
 
-**Wie viel mindern?**
+**Was tun?**
 
-Das kommt sehr auf den Fall an.
-
-**Besser: Uns fragen!**
-→ FRAGE Button unten klicken
-→ Wir sagen Ihnen:
-  - Können Sie mindern?
-  - Wie viel?
+**Sprechen Sie mit uns über Ihre Situation:**
+→ Frage
+→ Wir schauen uns den Fall an
+→ Wir helfen eine Lösung zu finden
 
 **Mehr Infos:**
 → [Mietminderung](/anliegen/mietminderung/)
@@ -211,21 +208,13 @@ Das kommt sehr auf den Fall an.
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Wichtig: Rücksicht nehmen!
 
-**Lärm kann Geld kosten - oder sparen!**
+**Lärm kann Probleme verursachen:**
 
-**Geld verlieren:**
-- Sie machen zu viel Lärm
+**Wenn Sie zu laut sind:**
 - Mehrere Abmahnungen
 - Eventuell Kündigung!
 
-**Bei zu viel Lärm von Nachbarn:**
-- Eventuell Miete mindern
-- Aber: Erst uns fragen!
-
 **Bei Fragen:**
-→ FRAGE Button unten klicken
-
-**Mehr Infos:**
-→ [Mietminderung](/anliegen/mietminderung/)
+→ Frage

@@ -8,7 +8,7 @@ weight: 3
 
 **So melden Sie eine Reparatur:**
 
-1. **PROBLEM Button unten klicken**
+1. **Problem**
 
 2. **Diese Infos brauchen wir:**
    - Was ist kaputt?
@@ -38,7 +38,7 @@ Ein Notfall ist nur:
 - Heizung macht Geräusche (aber ist warm)
 - Fenster klemmt
 
-→ Bei NOTFALL: NOTFALL Button unten klicken
+→ Bei NOTFALL: Notfall
 
 → Kein Notfall: Normaler Kontakt, wir melden uns in 24 Stunden
 

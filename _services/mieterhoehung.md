@@ -11,143 +11,167 @@ weight: 12
 Der Vermieter schreibt Ihnen:
 "Ab [Datum] soll die Miete steigen."
 
-**Wichtig:**
-Nicht jede Mieterhöhung muss akzeptiert werden!
+**Das ist normal!**
+Mieten können sich ändern.
 
-## Wann ist eine Mieterhöhung möglich?
+## Warum steigt die Miete?
 
-**Der Vermieter braucht einen Grund!**
+**Es gibt verschiedene Gründe:**
 
-Mögliche Gründe:
-1. **Ortsübliche Vergleichsmiete** (häufigster Grund)
-2. **Modernisierung** (Vermieter hat renoviert)
-3. **Staffelmiete** (stand schon im Mietvertrag)
-4. **Indexmiete** (steigt mit Inflation)
+**1. Ortsübliche Vergleichsmiete**
+- Mieten im Viertel sind gestiegen
+- Häufigster Grund
+- Vermieter zeigt Mietspiegel
 
-**Ohne Grund = Nicht zulässig!**
+**2. Modernisierung**
+- Vermieter hat renoviert
+- Neue Heizung, neue Fenster, etc.
+- Wohnung ist jetzt besser
 
-## Müssen Sie zustimmen?
+**3. Staffelmiete**
+- Stand schon im Mietvertrag
+- Erhöhung war von Anfang an geplant
 
-**NEIN! Sie müssen nicht automatisch zustimmen!**
+**4. Indexmiete**
+- Steigt mit Inflation
+- Stand schon im Mietvertrag
 
-**Sie können:**
-1. **Zustimmen** (wenn Sie wollen)
-2. **Ablehnen** (wenn zu hoch oder unbegründet)
-3. **Uns fragen** (wir prüfen für Sie!)
+## Brief vom Vermieter bekommen?
 
-**Wichtig:**
-Wenn Sie nicht zustimmen, zahlen Sie die alte Miete weiter!
+**Was steht im Brief?**
 
-## Mieterhöhung prüfen
+Der Vermieter erklärt:
+- Warum die Miete steigt
+- Wie viel mehr Sie zahlen
+- Ab wann die neue Miete gilt
 
-**So prüfen Sie die Erhöhung:**
+**Sie verstehen etwas nicht?**
+→ Frage
+→ Wir erklären es Ihnen!
 
-**1. Form prüfen**
+## Muss ich zustimmen?
 
-Ist der Brief richtig?
-- ❌ E-Mail? → Möglicherweise ungültig!
-- ❌ WhatsApp? → Möglicherweise ungültig!
-- ✅ Brief per Post? → Ok!
+**Bei Ortsüblicher Vergleichsmiete:**
 
-**2. Frist prüfen**
+Sie müssen innerhalb von 2 Monaten antworten.
 
-Sind 12 Monate seit der letzten Erhöhung vergangen?
-- ❌ Nur 10 Monate? → Möglicherweise zu früh!
-- ✅ 12 Monate oder mehr? → Ok!
+**Zustimmung schreiben:**
 
-**3. Erhöhung prüfen**
+**Nutzen Sie unsere Briefvorlage:**
+→ [Briefe kostenlos schreiben](https://der-walter.de/briefe/)
 
-Wie viel % Erhöhung?
-Wie viel in den letzten 3 Jahren?
+Dort finden Sie:
+- Vorlage "Zustimmung Mieterhöhung"
+- Automatisch richtig formuliert
 
-**Maximum:** 20% in 3 Jahren
-(In manchen Städten nur 15%)
+**Fragen zur Erhöhung?**
+→ Frage
+→ Wir schauen uns das mit Ihnen an
 
-**4. Begründung prüfen**
+## Staffelmiete und Indexmiete
 
-Hat der Vermieter eine Begründung?
-- Mietspiegel gezeigt?
-- Vergleichswohnungen gezeigt (mind. 3)?
-- Keine Begründung → möglicherweise ungültig!
+**Stand schon im Mietvertrag?**
 
-**Unsicher?**
-→ FRAGE Button unten klicken
-→ Wir prüfen das kostenlos für Sie!
+Dann ist die Erhöhung bereits vereinbart.
 
-## Wie reagieren Sie?
+**Staffelmiete:**
+- Erhöhungen stehen im Vertrag
+- Z.B. "Jedes Jahr etwas mehr"
+- Wurde beim Einzug besprochen
 
-**Brief vom Vermieter bekommen?**
+**Indexmiete:**
+- Steigt mit Inflation
+- Berechnung nach Index
+- Wurde beim Einzug besprochen
 
-**1. Nicht sofort zustimmen!**
+**Bei diesen Mieten:**
+Sie müssen nicht extra zustimmen.
+Die Erhöhung kommt automatisch.
 
-Erst prüfen:
-- Ist alles richtig?
-- Ist Erhöhung berechtigt?
-- Ist Erhöhung angemessen?
+## Modernisierung
 
-**2. Uns fragen!**
-
-→ FRAGE Button unten klicken
-→ Wir prüfen kostenlos:
-  - Ist die Form richtig?
-  - Ist die Frist eingehalten?
-  - Ist die Höhe ok?
-  - Ist die Begründung ausreichend?
-
-**3. Antworten (wenn nötig)**
-
-**Wenn berechtigt:**
-- Brief schreiben (Zustimmung)
-- → [Briefe schreiben](https://der-walter.de/briefe/)
-
-**Wenn nicht berechtigt:**
-- Brief schreiben (Ablehnung)
-- → [Briefe schreiben](https://der-walter.de/briefe/)
-
-**Frist: Innerhalb 2 Monate antworten!**
-
-## Modernisierung - Andere Regeln
-
-**Vermieter hat renoviert/modernisiert?**
-
-Dann gelten andere Regeln!
+**Vermieter hat renoviert?**
 
 **Beispiele:**
 - Neue Heizung eingebaut
 - Neue Fenster eingebaut
 - Balkon angebaut
 - Aufzug eingebaut
+- Dämmung verbessert
 
 **Dann kann die Miete steigen.**
 
-**Aber:**
-- Vermieter muss vorher ankündigen
-- Sie können in manchen Fällen widersprechen
+Das ist fair:
+- Wohnung ist besser geworden
+- Sie haben mehr Komfort
+- Oft niedrigere Nebenkosten (neue Heizung spart Energie!)
 
-**Modernisierung angekündigt?**
-→ FRAGE Button unten klicken
-→ Wir beraten Sie!
+**Vermieter muss vorher ankündigen:**
+- Was wird gemacht?
+- Wie lange dauert es?
+- Wie viel kostet es?
+
+**Fragen zur Modernisierung?**
+→ Frage
+→ Wir erklären es Ihnen
+
+## Was müssen Sie tun?
+
+**Schritt 1: Brief lesen**
+
+Schauen Sie:
+- Ab wann steigt die Miete?
+- Wie viel mehr?
+- Was ist der Grund?
+
+**Schritt 2: Frist beachten**
+
+Bei Ortsüblicher Vergleichsmiete:
+- 2 Monate Zeit zum Antworten
+- Nicht vergessen!
+
+**Schritt 3: Antworten**
+
+Zustimmung schreiben:
+→ [Briefvorlage nutzen](https://der-walter.de/briefe/)
+
+**Wichtig: Schriftlich!**
+- Brief per Post
+- Mit Unterschrift
+- Nicht E-Mail!
+- Nicht WhatsApp!
+
+**Schritt 4: Neue Miete zahlen**
+
+Ab dem genannten Datum:
+- Neue Miete überweisen
+- Dauerauftrag anpassen!
+
+## Fragen zur Mieterhöhung?
+
+**Sie verstehen etwas nicht?**
+
+Das ist normal!
+Mieterhöhungen sind kompliziert.
+
+**Wir helfen Ihnen:**
+→ Frage
+
+**Wir erklären:**
+- Warum steigt die Miete?
+- Wie wurde berechnet?
+- Was müssen Sie tun?
+- Bis wann müssen Sie antworten?
 
 ## Tipps zur Mieterhöhung
 
-**1. Nicht ignorieren!**
+**1. Frist beachten!**
 
-Brief vom Vermieter?
-- Sofort lesen
-- Frist beachten (2 Monate!)
+Bei Ortsüblicher Vergleichsmiete:
+- 2 Monate zum Antworten
+- Nicht vergessen!
 
-**2. Nicht sofort zustimmen!**
-
-Erst prüfen (lassen):
-→ FRAGE Button unten klicken
-
-**3. Uns fragen!**
-
-Unsicher?
-→ FRAGE Button unten klicken
-→ Wir prüfen kostenlos!
-
-**4. Schriftlich antworten!**
+**2. Schriftlich antworten!**
 
 Ihre Antwort muss schriftlich sein:
 - Brief per Post
@@ -156,6 +180,19 @@ Ihre Antwort muss schriftlich sein:
 
 **Vorlage nutzen:**
 → [Briefvorlagen](https://der-walter.de/briefe/)
+
+**3. Dauerauftrag anpassen!**
+
+Neue Miete ab dem Datum:
+- Bank anrufen
+- Oder online ändern
+- Sonst: Miete zu niedrig!
+
+**4. Bei Fragen: Fragen!**
+
+Unsicher?
+→ Frage
+→ Wir helfen Ihnen gerne!
 
 **5. Belege aufheben!**
 
@@ -166,23 +203,22 @@ Bewahren Sie auf:
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Vorteil von Modernisierung
 
-**Mieterhöhung prüfen kann viel Geld sparen!**
+**Nach Modernisierung: Nebenkosten können sinken!**
 
-**Beispiel:**
-- Erhöhung: 50€ pro Monat
-- Sie lassen prüfen: Nicht berechtigt!
-- Sie lehnen ab
-- **Gespart: 50€ × 12 Monate = 600€ pro Jahr!**
+**Beispiel neue Heizung:**
+- Miete steigt: Etwas mehr pro Monat
+- Heizkosten können sinken: Neue Heizung ist sparsamer
+- **Modernere Wohnung mit niedrigeren Nebenkosten**
 
-**Immer prüfen lohnt sich!**
-
-Viele Mieterhöhungen haben Fehler:
-- Falsche Begründung
-- Frist nicht eingehalten
-- Zu hohe Erhöhung
+**Auch gut:**
+- Neue Fenster = Weniger Heizkosten
+- Neue Dämmung = Viel weniger Heizkosten
+- Neue Waschmaschine = Weniger Wasserkosten
 
 **Bei Fragen:**
-→ FRAGE Button unten klicken
-→ Wir prüfen kostenlos!
+→ Frage
+
+**Mehr Spartipps:**
+→ [Geld sparen als Mieter](/anliegen/geld-sparen/)

@@ -14,6 +14,30 @@ Das passiert 2x:
 
 Beide Male sehr wichtig!
 
+## Checkliste: Das müssen Sie tun
+
+**Beim Einzug:**
+
+✅ Übergabeprotokoll machen!
+✅ Viele Fotos machen!
+✅ ALLES aufschreiben (auch Kleinigkeiten)
+✅ Zählerstände notieren
+✅ Schlüssel zählen
+✅ Beide unterschreiben
+✅ Kopie bekommen!
+
+**Beim Auszug:**
+
+✅ Wohnung sauber machen
+✅ Übergabeprotokoll machen
+✅ Fotos machen
+✅ Mit Einzugsprotokoll vergleichen
+✅ Alle Schlüssel zurückgeben
+✅ Beide unterschreiben
+✅ Kopie bekommen!
+
+**→ [Tool nutzen](https://der-walter.de/protokoll/)**
+
 ## Übergabe beim Einzug
 
 **Das passiert:**
@@ -168,10 +192,10 @@ Das sind die Nummern auf den Zählern:
 - Heizungszähler
 
 **Warum wichtig?**
-- Damit Sie nur IHREN Verbrauch zahlen
+- Damit Sie Ihren Verbrauch gemäß Vertrag zahlen
 - Nicht den Verbrauch vom Vormieter!
 - → [Nebenkosten](/anliegen/nebenkosten/)
-- → [Betriebskosten prüfen](/anliegen/betriebskosten-pruefen/)
+- → [Betriebskosten verstehen](/anliegen/betriebskosten-pruefen/)
 
 **Im Protokoll:**
 - Zählerstand aufschreiben
@@ -225,52 +249,8 @@ Fehlt ein Schlüssel = Sie zahlen!
    - Mit Auszugsprotokoll vergleichen
    - Was ist anders?
 
-## Was ist normale Abnutzung?
-
-**Normal = Sie haben in der Wohnung gewohnt**
-
-Das ist meist ok:
-- Kleine Kratzer
-- Farbe ist alt
-- Boden abgelaufen
-- Türen abgenutzt
-- Dübellöcher (für Bilder/Regale)
-
-**Oft müssen Sie dafür nicht zahlen!**
-
-Nur echte Schäden müssen behoben werden.
-
-**Unsicher?**
-→ FRAGE Button unten klicken
-
 **Mehr Infos:**
 → [Renovierung beim Auszug](/anliegen/renovierung-auszug/)
-
-## Tipps für die Übergabe
-
-**Beim Einzug:**
-
-1. ✅ Übergabeprotokoll machen!
-2. ✅ Viele Fotos machen!
-3. ✅ ALLES aufschreiben (auch Kleinigkeiten)
-4. ✅ Zählerstände notieren
-5. ✅ Schlüssel zählen
-6. ✅ Beide unterschreiben
-7. ✅ Kopie bekommen!
-
-**→ [Tool nutzen](https://der-walter.de/protokoll/)**
-
-**Beim Auszug:**
-
-1. ✅ Wohnung sauber machen
-2. ✅ Übergabeprotokoll machen
-3. ✅ Fotos machen
-4. ✅ Mit Einzugsprotokoll vergleichen
-5. ✅ Alle Schlüssel zurückgeben
-6. ✅ Beide unterschreiben
-7. ✅ Kopie bekommen!
-
-**→ [Tool nutzen](https://der-walter.de/protokoll/)**
 
 ## Vermieter will kein Protokoll machen?
 
@@ -292,7 +272,7 @@ Sagen Sie: "Ich möchte ein Protokoll"
 
 3. **Uns kontaktieren**
    - Wenn Probleme
-   - FRAGE Button unten klicken
+   - Frage
 
 ## Nach der Übergabe
 
@@ -302,14 +282,9 @@ Nach der Übergabe:
 - [Kaution](/anliegen/kaution/) wird zurückgezahlt
 - Meist 3-6 Monate später
 
-**Vermieter zieht Geld ab?**
-- Sie haben Protokoll = Beweis
-- Sie können vergleichen
-- War das schon kaputt?
-
-**Bei Abzügen: Uns fragen!**
-→ FRAGE Button unten klicken
-→ Wir prüfen ob berechtigt
+**Fragen zur Kaution?**
+→ Frage
+→ Wir erklären Ihnen die Abrechnung
 
 **Mehr Infos:**
 → [Kaution zurückbekommen](/anliegen/kaution/)
@@ -317,22 +292,16 @@ Nach der Übergabe:
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Übergabeprotokoll nutzen!
 
-**Übergabeprotokoll spart sehr viel Geld!**
+**Protokoll ist wichtig:**
 
-**Ohne Protokoll:**
-- Schwierig zu beweisen was schon kaputt war
-- Sie zahlen: 500€, 1.000€ oder mehr!
+- Dokumentiert den Zustand
+- Beide Seiten wissen Bescheid
+- Verhindert Missverständnisse
 
-**Mit Protokoll:**
-- Sie haben Beweis
-- Steht im Protokoll: War schon kaputt
-- Sie zahlen nichts!
-
-**Tool nutzen = Geld sparen:**
+**Tool nutzen:**
 → [Übergabeprotokoll kostenlos](https://der-walter.de/protokoll/)
 
-**Mehr Spartipps:**
-→ [Geld sparen als Mieter](/anliegen/geld-sparen/)
+**Mehr Infos:**
 → [Kaution zurückbekommen](/anliegen/kaution/)

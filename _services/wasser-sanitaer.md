@@ -21,7 +21,7 @@ weight: 4
    - Hilft Fett aufzulösen
 
 4. **Immer noch verstopft?**
-   - PROBLEM Button unten klicken
+   - Problem
    - Wir schicken einen Fachmann
 
 ## Wasserhahn tropft?
@@ -32,13 +32,13 @@ weight: 4
    - Manchmal reicht das schon
 
 2. **Tropft noch?**
-   - PROBLEM Button unten klicken
+   - Problem
    - Wir reparieren das
 
 ## Toilette läuft nach?
 
 - Wasser läuft ständig nach dem Spülen?
-- PROBLEM Button unten klicken
+- Problem
 - Wir schicken einen Fachmann
 
 ## NOTFALL: Wasser läuft aus!
@@ -51,7 +51,7 @@ weight: 4
    - Nach links drehen = zu
 
 2. **Notfallnummer anrufen!**
-   - NOTFALL Button unten klicken
+   - Notfall
    - 24 Stunden erreichbar
 
 3. **Wasser aufwischen**
@@ -60,8 +60,8 @@ weight: 4
 
 ---
 
-## 💰 Tipp: Geld sparen!
+## Wichtiger Tipp
 
-Wasserprobleme sofort melden spart viel Geld!
-Lesen Sie: **[Geld sparen als Mieter](/anliegen/geld-sparen/)**
+Wasserprobleme sofort melden ist wichtig!
+Lesen Sie: **[So machen Sie es richtig](/anliegen/geld-sparen/)**
 
