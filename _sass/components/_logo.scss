@@ -3,15 +3,17 @@
   @include media-breakpoint-up(sm) {
     display: block;
   }
-  img {
-    max-width: unset;
-  }
   a {
-    display: block;
-    width: 100%;
-    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
     text-decoration: none;
     color: inherit;
+  }
+  .logo-icon {
+    width: 48px;
+    height: 48px;
+    display: block;
   }
   .logo-text {
     font-size: 2rem;
@@ -27,16 +29,17 @@
   @include media-breakpoint-up(sm) {
     display: none;
   }
-  img {
-    width: 100%;
-    height: auto;
-  }
   a {
-    display: block;
-    width: 100%;
-    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
     text-decoration: none;
     color: inherit;
+  }
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    display: block;
   }
   .logo-text {
     font-size: 1.5rem;
