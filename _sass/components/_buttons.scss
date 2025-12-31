@@ -108,3 +108,29 @@
     margin-left: 8px;
   }
 }
+
+.button-chatbot {
+  background: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 30px;
+  height: auto;
+  line-height: 1.4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border: 3px solid #333333;
+  position: relative;
+  &:hover {
+    background-color: #333333;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.35), inset 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  &:focus {
+    outline: 3px solid #666666;
+    outline-offset: 2px;
+  }
+  &::after {
+    content: " ▶";
+    font-size: 18px;
+    margin-left: 8px;
+  }
+}
