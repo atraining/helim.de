@@ -85,6 +85,36 @@ Wir geben Ihre Daten nur weiter, wenn:
 - es zur Vertragserfüllung erforderlich ist (z.B. an Handwerker für Reparaturen)
 - wir gesetzlich dazu verpflichtet sind
 
+## Datei-Uploads mit Uploadcare
+
+Wenn Sie über unser Kontaktformular Dateien (z.B. Fotos von Schäden) hochladen, nutzen wir den Dienst **Uploadcare** zur sicheren Verarbeitung und Speicherung.
+
+**Anbieter:** Uploadcare, Inc., USA
+
+**Zweck:** Sichere Übertragung und Speicherung von hochgeladenen Dateien
+
+**Datenschutz:** Uploadcare ist DSGVO-konform und hat entsprechende Zertifizierungen:
+- [Uploadcare Trust Center](https://trust.uploadcare.com/)
+- [GDPR FAQ](https://trust.uploadcare.com/faq?s=17k21pnig7f9ktqmerf57x)
+
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) und Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an effizienter Kommunikation)
+
+Die hochgeladenen Dateien werden nur zur Bearbeitung Ihres Anliegens verwendet und nach Abschluss der Bearbeitung gelöscht.
+
+## KI-Chatbot (Konfuzio)
+
+Auf unserer Website bieten wir einen KI-gestützten Chatbot zur ersten Beantwortung Ihrer Fragen an.
+
+**Anbieter:** Konfuzio GmbH, Deutschland
+
+**Zweck:** Automatisierte Beantwortung häufiger Fragen in mehreren Sprachen
+
+**Verarbeitete Daten:** Ihre Chat-Nachrichten werden verarbeitet, um Ihnen Antworten zu geben. Es werden keine personenbezogenen Daten dauerhaft gespeichert.
+
+**Freiwilligkeit:** Die Nutzung des Chatbots ist vollkommen freiwillig. Sie können uns jederzeit auch direkt per E-Mail, Telefon oder Kontaktformular erreichen.
+
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an effizienter Kommunikation)
+
 ## Änderungen dieser Datenschutzerklärung
 
 Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, um aktuellen rechtlichen Anforderungen zu entsprechen.
