@@ -44,20 +44,14 @@ Wir verarbeiten Ihre Daten ausschließlich zu folgenden Zwecken:
 
 **Rechtsgrundlage:** Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) und Art. 6 Abs. 1 lit. c DSGVO (rechtliche Verpflichtung).
 
-## Kontakt per E-Mail, Telefon oder WhatsApp
+## Kontakt per E-Mail oder Kontaktformular
 
-Wenn Sie uns per E-Mail, Telefon oder WhatsApp kontaktieren, werden die von Ihnen übermittelten Daten gespeichert, um Ihr Anliegen zu bearbeiten.
+Wenn Sie uns per E-Mail oder über unser Kontaktformular kontaktieren, werden die von Ihnen übermittelten Daten gespeichert, um Ihr Anliegen zu bearbeiten.
 
-### WhatsApp
-
-**Wichtig:** Die Nutzung von WhatsApp ist **freiwillig**. Wenn Sie uns über WhatsApp kontaktieren, akzeptieren Sie die [Datenschutzbestimmungen von WhatsApp](https://www.whatsapp.com/legal/privacy-policy). WhatsApp ist ein Dienst der Meta Platforms Ireland Limited.
-
-Wir empfehlen, keine sensiblen Daten (z.B. Bankverbindungen, Gesundheitsdaten) über WhatsApp zu versenden.
-
-**Alternative Kontaktmöglichkeiten:**
+**Kontaktmöglichkeiten:**
 - E-Mail: info@helim.de
-- Telefon: 01634314960
 - Kontaktformular auf dieser Website
+- Im Notfall: Telefon (siehe Notfall-Seite)
 
 ## Wie lange speichern wir Ihre Daten?
 
@@ -124,7 +118,6 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, um aktu
 Bei Fragen zum Datenschutz erreichen Sie uns unter:
 
 **E-Mail:** info@helim.de
-**Telefon:** 01634314960
 **Adresse:** Rosenweg 5, 35614 Aßlar
 
 ---

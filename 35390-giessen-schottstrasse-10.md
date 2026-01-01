@@ -54,8 +54,6 @@ Jedes Mal!
 **Sie brauchen neuen Vertrag.**
 Bitte Kontakt machen:
 - Email: info@helim.de
-- WhatsApp: [Nachricht senden](https://api.whatsapp.com/send?phone=491634314960)
-- Telefon: 01634314960
 
 ---
 
@@ -153,8 +151,6 @@ Wir gucken nur ob alles gut ist.
 
 **Anmelden:**
 - Email: info@helim.de
-- WhatsApp: [Nachricht senden](https://api.whatsapp.com/send?phone=491634314960)
-- Telefon: 01634314960
 
 ---
 
@@ -184,7 +180,5 @@ gez. Christopher Helm
 
 **Kontakt:**
 - Email: info@helim.de
-- WhatsApp: [Nachricht senden](https://api.whatsapp.com/send?phone=491634314960)
-- Telefon: 01634314960
 
 **Bitte fragen wenn etwas nicht klar ist!**

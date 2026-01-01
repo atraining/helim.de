@@ -154,8 +154,7 @@ permalink: /frage/
                 <label class="helm-form-label">Wie sollen wir Sie kontaktieren? <span class="helm-required">*</span></label>
                 <select id="helmPreferredContact" class="helm-form-select" required>
                     <option value="">Bitte wählen...</option>
-                    <option value="anruf">Anruf</option>
-                    <option value="whatsapp">WhatsApp</option>
+                    <option value="anruf">Anruf (nur Notfall)</option>
                     <option value="email">E-Mail</option>
                 </select>
                 <span class="helm-error"></span>

@@ -15,9 +15,7 @@ Rosenweg 5
 
 ## Kontakt
 
-**Telefon:** 01634314960
 **E-Mail:** info@helim.de
-**WhatsApp:** [Nachricht senden](https://api.whatsapp.com/send?phone=491634314960&text=Bitte%20angeben%3A%20Stra%C3%9Fe%2C%20Ort%2C%20Wohnung%20%26%20Name%0ABitte%20Bilder%20senden%2C%20falls%20relevant.%0A)
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
