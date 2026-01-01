@@ -13,19 +13,9 @@ bodyClass: "page-home"
         {% endif %}
       </div>
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2">
-        <div class="row">
-          {% assign limit = site.home.limit_services | default: 6 %}
-          {% for service in site.services limit: limit %}
-          <div class="col-12 mb-1">
-            <a href="{{ service.url | relative_url }}" class="service service-summary">
-              <div class="service-content">
-                <h2 class="service-title">{{ service.title }}</h2>
-                <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
-              </div>
-            </a>
-          </div>
-          {% endfor %}
-        </div>
+        <iframe width="500px" height="700px" frameborder="0"
+          src="https://widget.konfuzio.com?kbId=69567b852565b9daa264df45&embed=true&hide-chat-actions=true">
+        </iframe>
 
         <div class="mehr-hilfe mt-2">
           <a href="/anliegen/" class="mehr-hilfe-link">Zur Hilfe →</a>
