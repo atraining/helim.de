@@ -1,35 +1,43 @@
+// Apply serif font to all headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-heading;
+}
+
 p {
   font-size: 18px;
-  line-height: 26px;
+  line-height: 1.56;
   color: $black;
   font-family: $font-family-base;
   margin-bottom: 20px;
 }
-h1, .h1 {
-  font-size: 30px;
-  font-family: $font-family-heading;
+
+h1 {
+  font-size: 34px;
   line-height: 1.2;
   margin-bottom: 20px;
   @include media-breakpoint-up(md) {
-    font-size: 32px;
+    font-size: 36px;
     line-height: 1.2;
   }
 }
+
 h2 {
-  font-size: 24px;
-  font-family: $font-family-heading;
+  font-size: 26px;
+  font-weight: bold;
   line-height: 1.4;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   @include media-breakpoint-up(md) {
-    font-size: 26px;
+    font-size: 28px;
     line-height: 1.4;
   }
 }
+
 h3 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.4;
+  margin-bottom: 10px;
   @include media-breakpoint-up(md) {
-    font-size: 20px;
+    font-size: 22px;
     line-height: 1.4;
   }
 }
