@@ -9,32 +9,6 @@
     padding-top: 30px;
     padding-bottom: 30px;
   }
-  h1 {
-    color: $black;
-    @include media-breakpoint-up(md) {
-      width: 80%;
-    }
-  }
-  h2 {
-    width: 80%;
-    font-size: 20px;
-    line-height: 1.5;
-    margin-bottom: 30px;
-    color: $black;
-    font-family: $font-family-base;
-  }
-  p {
-    font-size: 20px;
-    font-weight: light;
-    line-height: 1.5;
-    color: $black;
-    @include media-breakpoint-up(md) {
-      width: 80%;
-    }
-  }
-  strong {
-    font-size: 20px;
-  }
 }
 
 .intro-small {
