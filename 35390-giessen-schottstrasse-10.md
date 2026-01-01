@@ -53,7 +53,7 @@ Jedes Mal!
 ### Können Sie nicht am 3. zahlen?
 **Sie brauchen neuen Vertrag.**
 Bitte Kontakt machen:
-- Email: info@helim.de
+- Email: info@helmont.de
 
 ---
 
@@ -150,7 +150,7 @@ Wir gucken nur ob alles gut ist.
 2. **Vorher Selbstauskunft senden** (siehe Punkt 3)
 
 **Anmelden:**
-- Email: info@helim.de
+- Email: info@helmont.de
 
 ---
 
@@ -170,7 +170,7 @@ Wir gucken nur ob alles gut ist.
 
 Wir wünschen Ihnen ein **gesundes und frohes neues Jahr 2025**!
 
-**Helm Immobilien**
+**HELMONT Immobilien**
 
 gez. Christopher Helm
 
@@ -179,6 +179,6 @@ gez. Christopher Helm
 ## ❓ FRAGEN?
 
 **Kontakt:**
-- Email: info@helim.de
+- Email: info@helmont.de
 
 **Bitte fragen wenn etwas nicht klar ist!**

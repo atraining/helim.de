@@ -1,7 +1,7 @@
 ---
-title: HELIM – Haus, Eigentum, Liegenschaften - Immobilien Management
+title: HELMONT Immobilien Management
 layout: home
-description: Strukturierte Immobilienverwaltung - Klare Prozesse für Ihre Anliegen
+description: Professionelle Immobilienverwaltung - Klare Prozesse für Ihre Anliegen
 intro_image: false
 show_call_box: false
 ---

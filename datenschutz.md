@@ -16,7 +16,7 @@ Der Schutz Ihrer persönlichen Daten ist uns wichtig. Diese Datenschutzerklärun
 Christopher Helm
 Rosenweg 5
 35614 Aßlar
-E-Mail: info@helim.de
+E-Mail: info@helmont.de
 
 ## Welche Daten erheben wir?
 
@@ -49,7 +49,7 @@ Wir verarbeiten Ihre Daten ausschließlich zu folgenden Zwecken:
 Wenn Sie uns per E-Mail oder über unser Kontaktformular kontaktieren, werden die von Ihnen übermittelten Daten gespeichert, um Ihr Anliegen zu bearbeiten.
 
 **Kontaktmöglichkeiten:**
-- E-Mail: info@helim.de
+- E-Mail: info@helmont.de
 - Kontaktformular auf dieser Website
 - Im Notfall: Telefon (siehe Notfall-Seite)
 
@@ -117,7 +117,7 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, um aktu
 
 Bei Fragen zum Datenschutz erreichen Sie uns unter:
 
-**E-Mail:** info@helim.de
+**E-Mail:** info@helmont.de
 **Adresse:** Rosenweg 5, 35614 Aßlar
 
 ---
