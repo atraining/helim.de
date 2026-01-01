@@ -13,6 +13,11 @@ weight: 5
   Windeln, Staubsaugerbeutel, Zigarettenkippen, verschmutztes Papier, Hygieneartikel, Asche, kaputtes Geschirr, Glühbirnen
 </div>
 
+<div style="background-color: #f0f0f0; padding: 15px; margin: 10px 0; border-radius: 5px; border-left: 4px solid #2c2c2c;">
+  <img src="/images/anliegen/muellbeutel-schwarze-tonne.png" alt="Müllbeutel in schwarzer Tonne verwenden" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+  <p style="margin: 0; color: #2c2c2c;"><strong>⚠️ Müllbeutel verwenden!</strong><br>Ohne Beutel: Maden, Ratten, Ungeziefer - gefährlich für Kinder!</p>
+</div>
+
 <div style="background-color: #8B4513; color: white; padding: 15px; margin: 10px 0; border-radius: 5px;">
   <strong>🍂 BIOMÜLL (Braune Tonne)</strong><br>
   Essensreste, Obst, Gemüse, Kaffeesatz, Teebeutel, Eierschalen, Gartenabfälle, Blumen, Laub, Rasenschnitt
@@ -31,7 +36,8 @@ weight: 5
 <div style="background-color: #27ae60; color: white; padding: 15px; margin: 10px 0; border-radius: 5px;">
   <strong>🍾 GLAS (Container)</strong><br>
   <strong>WICHTIG: Nach Farben trennen!</strong><br>
-  Weißglas, Grünglas, Braunglas - ohne Deckel!
+  Weißglas, Grünglas, Braunglas - ohne Deckel!<br><br>
+  <a href="https://www.muelltrennung-wirkt.de/de/muelltrennung/glascontainer/" target="_blank" style="color: white; text-decoration: underline;">📍 Glascontainer suchen</a>
 </div>
 
 ---
