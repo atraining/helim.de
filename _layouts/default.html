@@ -33,7 +33,16 @@
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
-    <div id="google_translate_element" class="translate-banner"></div>
+    <div class="translate-banner">
+      <div class="translate-controls">
+        <div id="google_translate_element"></div>
+        <div class="zoom-controls">
+          <button class="zoom-btn" id="zoom-out" aria-label="Text verkleinern">A-</button>
+          <button class="zoom-btn" id="zoom-reset" aria-label="Textgröße zurücksetzen">A</button>
+          <button class="zoom-btn" id="zoom-in" aria-label="Text vergrößern">A+</button>
+        </div>
+      </div>
+    </div>
     {{content}}
   </div>
   {% include footer.html %}

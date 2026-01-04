@@ -251,4 +251,104 @@ class PhoneReveal {
 
 document.addEventListener('DOMContentLoaded', () => {
     new PhoneReveal();
+    initZoomControls();
+    initCollapsibleSections();
 });
+
+// Text Zoom Controls
+function initZoomControls() {
+    const zoomIn = document.getElementById('zoom-in');
+    const zoomOut = document.getElementById('zoom-out');
+    const zoomReset = document.getElementById('zoom-reset');
+
+    if (!zoomIn || !zoomOut || !zoomReset) return;
+
+    // Get current zoom level from localStorage or default to 100
+    let zoomLevel = parseInt(localStorage.getItem('textZoom') || '100');
+    applyZoom(zoomLevel);
+
+    zoomIn.addEventListener('click', () => {
+        if (zoomLevel < 150) {
+            zoomLevel += 10;
+            applyZoom(zoomLevel);
+            localStorage.setItem('textZoom', zoomLevel);
+        }
+    });
+
+    zoomOut.addEventListener('click', () => {
+        if (zoomLevel > 80) {
+            zoomLevel -= 10;
+            applyZoom(zoomLevel);
+            localStorage.setItem('textZoom', zoomLevel);
+        }
+    });
+
+    zoomReset.addEventListener('click', () => {
+        zoomLevel = 100;
+        applyZoom(zoomLevel);
+        localStorage.setItem('textZoom', zoomLevel);
+    });
+}
+
+function applyZoom(level) {
+    // Calculate the new font size: 100% = 16px, 110% = 17.6px, etc.
+    const baseFontSize = 16;
+    const newFontSize = (baseFontSize * level) / 100;
+    document.documentElement.style.fontSize = newFontSize + 'px';
+}
+
+// Collapsible Sections (only for service/post pages, not homepage)
+function initCollapsibleSections() {
+    // Only activate on service pages, not homepage
+    if (!document.body.classList.contains('page-service')) return;
+
+    const contentDiv = document.querySelector('.content');
+    if (!contentDiv) return;
+
+    const h2Elements = contentDiv.querySelectorAll('h2');
+
+    h2Elements.forEach((h2, index) => {
+        // Skip the "Kontakt" h2 at the end
+        if (h2.textContent.trim() === 'Kontakt') return;
+
+        // Find all content between this h2 and the next h2 (or end of content)
+        const content = [];
+        let nextElement = h2.nextElementSibling;
+
+        while (nextElement && nextElement.tagName !== 'H1' && nextElement.tagName !== 'H2') {
+            content.push(nextElement);
+            nextElement = nextElement.nextElementSibling;
+        }
+
+        // Only make it collapsible if there's content
+        if (content.length > 0) {
+            // Create wrapper for collapsible content
+            const wrapper = document.createElement('div');
+            wrapper.className = 'collapsible-content';
+
+            // Move content into wrapper
+            content.forEach(elem => {
+                wrapper.appendChild(elem);
+            });
+
+            // Insert wrapper after h2
+            h2.parentNode.insertBefore(wrapper, h2.nextSibling);
+
+            // Make h2 collapsible
+            h2.classList.add('collapsible');
+
+            // Default: First section open, rest collapsed
+            const shouldBeCollapsed = index > 0;
+            if (shouldBeCollapsed) {
+                h2.classList.add('collapsed');
+                wrapper.classList.add('collapsed');
+            }
+
+            // Add click handler
+            h2.addEventListener('click', () => {
+                h2.classList.toggle('collapsed');
+                wrapper.classList.toggle('collapsed');
+            });
+        }
+    });
+}
