@@ -24,7 +24,7 @@ Sie können Kosten niedrig halten!
 - Zu wenig heizen → [Schimmel](/anliegen/schimmel/) → Sie zahlen viel Geld!
 - Fenster zu beim Heizen
 - Stoßlüften statt Fenster kippen
-- **→ So heizen Sie richtig!**
+- **→ Mehr Tipps:** [Heizkosten sparen](/anliegen/heizung/#heizkosten-sparen)
 
 **Wasser sparen:**
 - Kurz duschen (5 Minuten)
