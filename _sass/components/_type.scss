@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 1rem; // 16px
   line-height: 1.56;
   color: $black;
   font-family: $font-family-base;
@@ -12,32 +12,32 @@ p {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 1.875rem; // 30px
   line-height: 1.2;
   margin-bottom: 20px;
   @include media-breakpoint-up(md) {
-    font-size: 36px;
+    font-size: 2rem; // 32px
     line-height: 1.2;
   }
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 1.375rem; // 22px
   font-weight: bold;
   line-height: 1.4;
   margin-bottom: 15px;
   @include media-breakpoint-up(md) {
-    font-size: 28px;
+    font-size: 1.5rem; // 24px
     line-height: 1.4;
   }
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.125rem; // 18px
   line-height: 1.4;
   margin-bottom: 10px;
   @include media-breakpoint-up(md) {
-    font-size: 22px;
+    font-size: 1.25rem; // 20px
     line-height: 1.4;
   }
 }

@@ -17,6 +17,71 @@
   h1, h2, h3 {
     margin-top: 30px;
   }
+
+  // Collapsible sections (accordion style)
+  h2.collapsible {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 40px 12px 15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    user-select: none;
+    transition: all 0.2s ease;
+    background-color: rgba($primary, 0.05);
+    border-left: 4px solid $primary;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: rgba($primary, 0.1);
+      border-left-color: $primary-light;
+    }
+
+    &::after {
+      content: '▼';
+      position: absolute;
+      right: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.8em;
+      color: $primary;
+      transition: transform 0.3s ease;
+      font-weight: bold;
+    }
+
+    &.collapsed {
+      background-color: rgba($primary, 0.02);
+      border-left-color: rgba($primary, 0.3);
+
+      &::after {
+        transform: translateY(-50%) rotate(-90deg);
+      }
+
+      &:hover {
+        background-color: rgba($primary, 0.05);
+      }
+    }
+  }
+
+  .collapsible-content {
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.4s ease, padding 0.4s ease;
+    max-height: 5000px;
+    opacity: 1;
+    padding: 15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: rgba($primary, 0.02);
+    border-left: 4px solid transparent;
+    border-radius: 0 0 4px 4px;
+    margin-top: -10px;
+
+    &.collapsed {
+      max-height: 0;
+      opacity: 0;
+      padding: 0 15px;
+      margin-top: 0;
+    }
+  }
   ul,
   ol {
     margin-bottom: 20px;
@@ -32,7 +97,7 @@
     list-style: decimal;
   }
   li {
-    font-size: 18px;
+    font-size: 1rem; // 16px
     margin-bottom: 5px;
     line-height: 1.56;
     margin-left: 20px;

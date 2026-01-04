@@ -113,12 +113,17 @@ $sub-footer-text-color: $white;
 @import "pages/page-service";
 @import "pages/page-services";
 
+// Set base font size on html element for rem calculations
+html {
+  font-size: 16px; // 1rem = 16px
+}
+
 body {
-  font-size: 18px;
+  font-size: 1rem; // 16px
   line-height: 1.2;
   font-family: $font-family-base;
   @include media-breakpoint-up(md) {
-    font-size: 18px;
+    font-size: 1rem; // 16px
     line-height: 1.3;
   }
 }
