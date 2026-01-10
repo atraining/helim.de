@@ -12,12 +12,6 @@ In einem Mehrfamilienhaus fallen verschiedene Aufgaben an, die für das Wohl all
 
 Reinigungsdienste kosten in der Regel zwischen 50 und 75 Euro pro Stunde. Bei einer wöchentlichen Reinigung des Treppenhauses kommen so schnell 200 bis 300 Euro pro Monat zusammen. Diese Kosten würden über die Nebenkosten auf alle Bewohner verteilt. Wenn Sie die Reinigung gemeinsam selbst übernehmen, bleibt dieses Geld in Ihrer Tasche.
 
-**Auf dieser Seite:**
-- [Treppenhaus putzen](#treppenhaus-putzen)
-- [Hof und Gehweg pflegen](#hof-und-gehweg-pflegen)
-- [Winterdienst](#winterdienst)
-- [Gemeinsam organisieren mit Apps](#gemeinsam-organisieren-mit-apps)
-
 ---
 
 ## Treppenhaus putzen
