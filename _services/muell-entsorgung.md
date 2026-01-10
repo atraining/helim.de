@@ -89,3 +89,27 @@ Große Gegenstände: Möbel, Matratzen, Teppiche, größere Elektrogeräte
 **Wo entsorge ich Medikamente?**
 → Apotheke oder Schadstoffsammlung
 
+**Was wenn ich vergesse, die Mülltonne rauszustellen?**
+→ **SEHR TEUER! Sonderleerung: ca. 150 € pro kleiner Tonne**
+→ Tipp: Erinnerung im Handy einstellen oder mit Nachbarn abwechseln
+
+---
+
+## Geld sparen mit System!
+
+**Mülltonne rausstellen nicht vergessen!**
+
+**Kosten bei vergessener Leerung:**
+- **Sonderleerung: ca. 150 € pro kleiner Tonne**
+- Muss extra beauftragt werden
+- Sie zahlen direkt!
+
+**So vergessen Sie es nie:**
+- Erinnerung im Handy einstellen (am Vorabend)
+- Abfuhrkalender ausdrucken und aufhängen
+- Mit Nachbarn abwechseln: Einer erinnert alle
+
+**Noch mehr Spartipps:**
+Wenn Ihre WG gemeinsam Treppenhaus putzt, Hof kehrt und Schnee räumt, sparen Sie viel Geld!
+→ [Reinigung & Winterdienst](/anliegen/reinigung-winterdienst/)
+
