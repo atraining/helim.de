@@ -4,266 +4,145 @@ date: 2024-01-08
 weight: 8
 ---
 
-## Geld sparen durch Selbermachen!
+## Gemeinsam die Hausgemeinschaft pflegen
 
-**Wichtig zu wissen:**
+In einem Mehrfamilienhaus fallen verschiedene Aufgaben an, die für das Wohl aller wichtig sind. Wenn Ihre Hausgemeinschaft diese Aufgaben gemeinsam übernimmt, können Sie erhebliche Kosten sparen, die sonst über die Nebenkosten auf alle Mieter umgelegt werden müssten.
 
-Wenn Sie oder Ihre WG diese Aufgaben selbst machen, sparen Sie viel Geld!
+**Ihre Hausgemeinschaft kann sparen:**
 
-**Wenn Sie es NICHT selbst machen:**
-- Reinigungsdienst: **50-75 € pro Stunde**
-- Je regelmäßiger, desto teurer über das Jahr
-- Diese Kosten zahlen alle Mieter zusammen über die Nebenkosten!
-
-**Wenn Sie es vergessen:**
-- Straße nicht geräumt? → **Sonderräumung: sehr teuer!**
-- Mülltonne vergessen rauszustellen? → **Sonderleerung: ca. 150 € pro kleiner Tonne!**
-- Diese Extra-Kosten zahlen SIE direkt!
-
-**Besser:** Gemeinsam selbst machen → **Keine Extra-Kosten!**
+Reinigungsdienste kosten in der Regel zwischen 50 und 75 Euro pro Stunde. Bei einer wöchentlichen Reinigung des Treppenhauses kommen so schnell 200 bis 300 Euro pro Monat zusammen. Diese Kosten würden über die Nebenkosten auf alle Bewohner verteilt. Wenn Sie die Reinigung gemeinsam selbst übernehmen, bleibt dieses Geld in Ihrer Tasche.
 
 **Auf dieser Seite:**
 - [Treppenhaus putzen](#treppenhaus-putzen)
-- [Hof und Straße kehren](#hof-und-straße-kehren)
-- [Winterdienst (Schnee räumen)](#winterdienst-schnee-räumen)
+- [Hof und Gehweg pflegen](#hof-und-gehweg-pflegen)
+- [Winterdienst](#winterdienst)
+- [Gemeinsam organisieren mit Apps](#gemeinsam-organisieren-mit-apps)
 
 ---
 
 ## Treppenhaus putzen
 
-**Warum selbst putzen?**
+Das Treppenhaus ist die Visitenkarte Ihres Hauses. Eine saubere, gepflegte Treppe macht das Wohnen für alle angenehmer und erhält den Wert der Immobilie.
 
-**Geld sparen!** Wenn alle zusammen putzen, muss kein teurer Reinigungsdienst bezahlt werden.
+### Wie oft sollte geputzt werden?
 
-**Kosten wenn nicht selbst gemacht:**
-- Reinigungsdienst: **50-75 € pro Stunde**
-- Bei wöchentlicher Reinigung: **200-300 € pro Monat**
-- Das zahlen alle Mieter über die Nebenkosten!
+In den meisten Fällen reicht eine wöchentliche Reinigung vollkommen aus. Sie können selbst entscheiden, an welchem Wochentag Sie putzen möchten. Bei besonderen Umständen, wie zum Beispiel während Handwerkerarbeiten, kann es sinnvoll sein, zweimal pro Woche zu putzen, aber nur solange der erhöhte Schmutzanfall besteht.
 
-**Wie oft putzen?**
+### Was gehört zur Treppenhausreinigung?
 
-Normal: **1x pro Woche**
-- Das reicht normalerweise
-- Sie dürfen selbst wählen, an welchem Tag
+Die konkreten Aufgaben sind in Ihrer Hausordnung beschrieben. Üblicherweise gehören dazu:
+- Die Treppenstufen fegen oder wischen
+- Das Treppengeländer abwischen
+- Die Fußmatte ausklopfen oder absaugen
+- Bei Bedarf die Fenster im Treppenhaus putzen
 
-Bei Handwerkerarbeiten: **2x pro Woche**
-- Wenn viel Schmutz entsteht
-- Nur solange Handwerker da sind
+### Organisation in der Hausgemeinschaft
 
-**Was muss geputzt werden?**
-
-Das steht in der Hausordnung:
-- Treppe fegen oder wischen
-- Treppengeländer abwischen
-- Fußmatte ausklopfen
-- Fenster putzen (wenn in Hausordnung)
-
-**Was wenn Sie nicht können?**
-- Urlaub? → Nachbar fragen oder tauschen
-- Krank? → Nachbar um Hilfe bitten
-- Haben keine Zeit? → Trotzdem Ihre Pflicht!
-
-**Tipp:** Machen Sie einen Plan mit den Nachbarn!
+Am einfachsten ist es, wenn alle Bewohner einen gemeinsamen Putzplan erstellen. Jeder übernimmt eine Woche im Turnus. Wenn Sie einmal verhindert sind – etwa durch Urlaub oder Krankheit – können Sie mit Ihren Nachbarn tauschen oder jemanden um Vertretung bitten.
 
 ---
 
-## Hof und Straße kehren
+## Hof und Gehweg pflegen
 
-**Warum selbst kehren?**
+Auch der Außenbereich gehört zu den gemeinschaftlich genutzten Flächen und sollte gepflegt werden.
 
-**Geld sparen!** Wenn Sie es selbst machen, fallen keine Extra-Kosten an.
+### Welche Bereiche sind gemeint?
 
-**Was muss gekehrt werden?**
-- Hof-Eingangsbereich
-- Wege im Hof
-- Manchmal: Bürgersteig vor dem Haus
+- Der Hof-Eingangsbereich
+- Wege und Flächen im Innenhof
+- Je nach Hausordnung auch der Bürgersteig vor dem Haus
 
-**Wie oft?**
+### Wie oft kehren?
 
-Normal: **1x pro Woche** reicht
-- Bei viel Laub: häufiger
-- Im Sommer: öfter nötig
+In der Regel reicht es, einmal pro Woche zu kehren. Im Herbst bei starkem Laubfall oder im Sommer bei trockenem Wetter kann es sinnvoll sein, häufiger zu kehren. Das hängt ganz von der jeweiligen Situation ab.
 
-**Gemeinsam ist einfacher!**
-- Plan mit Nachbarn machen
-- Jeder ist 1 Woche dran
-- Plan aufhängen (z.B. im Hausflur)
+### Gemeinsam macht's leichter
+
+Wie beim Treppenhaus empfiehlt sich auch hier ein Wochenplan. Wenn sich alle beteiligen, ist die Arbeit für den Einzelnen überschaubar. Der Plan sollte für alle sichtbar ausgehängt werden, zum Beispiel im Erdgeschoss-Eingangsbereich.
 
 ---
 
-## Winterdienst (Schnee räumen)
+## Winterdienst
+
+Der Winterdienst hat eine besondere Bedeutung, da es hier um die Sicherheit aller geht. Wer auf einer vereisten Treppe oder einem nicht geräumten Gehweg ausrutscht, kann sich ernsthaft verletzen.
 
 ### Warum ist Winterdienst so wichtig?
 
-**Winterdienst spart Geld UND verhindert Unfälle!**
+Im Winter ist es Ihre Aufgabe, Schnee und Eis zu beseitigen, damit niemand zu Schaden kommt. Die Verantwortung und auch die Haftung liegen bei der Hausgemeinschaft beziehungsweise bei demjenigen, der für den Winterdienst eingeteilt ist. Wenn jemand auf einem nicht geräumten Gehweg ausrutscht und sich verletzt, können erhebliche Schadenersatzforderungen auf Sie zukommen. Im Durchschnitt liegen solche Schäden bei etwa 15.000 Euro, in schweren Fällen auch deutlich höher.
 
-**Wenn Sie es vergessen:**
-- **Sonderräumung:** Sehr teuer! Mehrere hundert Euro
-- **Strafen:** Bis zu mehrere hundert Euro von der Stadt
-- **Unfälle:** Sie haften persönlich, wenn jemand ausrutscht!
+Außerdem können Kommunen Bußgelder verhängen, wenn die Räumpflicht nicht eingehalten wird. Diese fallen in der Praxis zwar unterschiedlich aus, aber sie sind ein zusätzlicher Grund, den Winterdienst ernst zu nehmen.
 
-**WICHTIG:** Winterdienst ist Ihre Verantwortung!
-- Wenn jemand ausrutscht und sich verletzt: **Sie haften!**
-- Wenn Sie nicht räumen: **Bis zu mehrere hundert Euro Strafe!**
-- Keine Ausrede: Auch bei Urlaub, Krankheit oder Arbeit!
+### Wann muss geräumt werden?
 
-### Wann müssen Sie räumen?
+An Werktagen (Montag bis Samstag) muss der Gehweg ab 7.00 Uhr morgens geräumt und gestreut sein. Das bedeutet, Sie sollten bereits vor 7 Uhr aktiv werden. An Sonn- und Feiertagen beginnt die Räumpflicht ab 9.00 Uhr morgens. Die Räumpflicht endet grundsätzlich um 20.00 Uhr abends – Sie müssen also nachts nicht raus.
 
-**Werktage (Montag-Samstag):**
-- **Ab 7 Uhr morgens** muss alles frei sein
-- Das heißt: Sie müssen **vor 7 Uhr** räumen!
+Bei anhaltendem Schneefall oder erneutem Glätterisiko müssen Sie im Laufe des Tages mehrmals räumen und streuen. Es reicht nicht aus, nur einmal morgens zu räumen, wenn es danach weiter schneit.
 
-**Sonn- und Feiertage:**
-- **Ab 9 Uhr** muss alles frei sein
-- Das heißt: Sie müssen **vor 9 Uhr** räumen!
+### Was muss geräumt werden?
 
-**Bis wann?**
-- Bis **20 Uhr abends**
-- Nachts (nach 20 Uhr) müssen Sie nicht räumen
+Es gibt drei Bereiche, die Sie freihalten sollten:
 
-**Bei Dauerschnee:**
-- **Mehrmals am Tag** räumen!
-- Morgens, mittags, abends
-- Solange es schneit
+**1. Der Bürgersteig vor dem Haus:** Dies ist besonders wichtig, da es sich um einen öffentlichen Gehweg handelt. Eine Breite von etwa 1 bis 1,5 Metern sollte geräumt werden, damit Fußgänger sicher passieren können.
 
-### Was müssen Sie räumen?
+**2. Der Hof-Eingangsbereich:** Der Weg vom Hoftor bis zur Haustür sollte frei sein, damit alle Bewohner und Besucher sicher ins Haus gelangen.
 
-**1. Bürgersteig vor dem Haus**
-- Breite: 1-1,5 Meter
-- Am wichtigsten! (öffentlicher Gehweg)
+**3. Die Treppenstufen zur Haustür:** Alle Stufen im Außenbereich müssen geräumt und gestreut werden, um Sturzunfälle zu vermeiden.
 
-**2. Hof-Eingangsbereich**
-- Weg vom Tor bis zur Haustür
-- Damit alle sicher ins Haus kommen
+### Womit streuen? Wichtig für Holztreppen!
 
-**3. Treppenstufen zur Haustür**
-- Alle Stufen außen
-- Damit niemand stürzt
+Beim Streuen ist es wichtig, das richtige Material zu verwenden:
 
-### Womit streuen?
+**Für den Bürgersteig:** Hier können Sie Streusalz verwenden, sofern Ihre Kommune das erlaubt. In vielen Städten ist Streusalz für Privatpersonen jedoch eingeschränkt oder verboten. Informieren Sie sich am besten bei Ihrer Gemeindeverwaltung. Streusalz schmilzt Eis und Schnee bis etwa -6 bis -8 Grad Celsius.
 
-**WICHTIG: Nicht überall das Gleiche!**
+**Für Hof und Holztreppen:** Hier dürfen Sie auf keinen Fall Streusalz verwenden! Salz greift Holz an und kann es beschädigen. Verwenden Sie stattdessen Streugranulat, Sand oder Splitt. Diese Materialien schmelzen das Eis zwar nicht, erhöhen aber die Griffigkeit und verhindern so das Ausrutschen.
 
-**Für Bürgersteig: Streusalz**
-- Salz schmilzt Eis und Schnee
-- Funktioniert bis -6°C bis -8°C
-- **ABER:** In vielen Städten verboten! → Fragen Sie nach!
+### Wo finden Sie das Material?
 
-**Für Hof und Holztreppen: Streugranulat**
-- **NIEMALS Salz auf Holztreppen!**
-- Salz macht Holz kaputt!
-- Benutzen Sie: Granulat, Sand, Splitt
+Ihr Vermieter stellt Ihnen Schneeschieber, Streusalz und Streugranulat zur Verfügung. Schauen Sie in Ihrem Mietvertrag nach, wo das Material gelagert wird – üblicherweise im Keller oder in einer Garage.
 
-**Wo liegt das Material?**
+### Was tun, wenn Sie verhindert sind?
 
-Schauen Sie in Ihrem Mietvertrag oder fragen Sie:
-- Normalerweise: Im Keller oder in der Garage
-- Vermieter muss Material bereitstellen
-
-### Was wenn Sie nicht können?
-
-**Sie müssen für Ersatz sorgen!**
-
-**Möglichkeiten:**
-- Nachbarn fragen
-- Mit anderen Mietern Vertretungsplan machen
-- Jemanden bezahlen (Räumdienst)
-
-**Keine Ausrede:**
-- "Ich bin bei der Arbeit" → Ersatz organisieren!
-- "Ich bin im Urlaub" → Vorher Ersatz organisieren!
-- "Ich bin krank" → Nachbarn um Hilfe bitten!
-
-### Plan machen hilft!
-
-**Besser gemeinsam als alleine:**
-
-**Beispiel Wochenplan:**
-- Woche 1: Mieter A
-- Woche 2: Mieter B
-- Woche 3: Mieter C
-- Woche 4: Mieter D
-
-**Plan aufhängen:**
-- Im Hausflur
-- Für alle sichtbar
-- Mit Vertretung bei Urlaub/Krankheit
+Auch wenn Sie im Urlaub, krank oder bei der Arbeit sind, müssen Sie dafür sorgen, dass der Winterdienst erledigt wird. Bitten Sie Ihre Nachbarn um Vertretung oder organisieren Sie einen gemeinsamen Vertretungsplan. Auch wenn es schwierig erscheint: Die Sicherheit aller Bewohner und Passanten hat Vorrang.
 
 ---
 
-## Apps für Putzplan und Aufgaben
+## Gemeinsam organisieren mit Apps
 
-**Digital ist einfacher!**
+Moderne Technik kann Ihnen helfen, die Aufgaben in Ihrer Hausgemeinschaft fair und transparent zu verteilen. Es gibt verschiedene Apps, die speziell für Wohngemeinschaften und Hausgemeinschaften entwickelt wurden.
 
-Es gibt Apps, die Ihnen helfen:
-- Putzplan erstellen
-- Aufgaben verteilen
-- Punkte sammeln (wer macht wie viel?)
-- Einkaufsliste teilen
-- Geld aufteilen
+### Wie funktioniert ein Punktesystem?
 
-### Empfohlene Apps:
-
-**1. [Flatastic](https://www.flatastic-app.com/)**
-- Der Klassiker für WGs
-- Putzplan mit Punktesystem
-- Jeder sieht, wer wie viel macht
-- Einkaufsliste und Ausgaben teilen
-- Grundversion kostenlos
-
-**2. [Flatify](https://flatify-app.com/)**
-- Sterne sammeln für erledigte Aufgaben
-- Wie ein Spiel!
-- Kalender für gemeinsame Termine
-- Finanzen verwalten
-- Kostenlos für iOS und Android
-
-**3. [OurFlat](https://apps.apple.com/de/app/ourflat-wg-putzplan-app/id1530007409)**
-- Belohnungssystem mit Punkten
-- Umfragen im Chat
-- Automatische Erinnerungen
-- Kostenlos
-
-**4. [FlatUp!](https://flatup-app.de/)**
-- Komplett kostenlos
-- Keine Registrierung nötig zum Testen
-- Putzplan, Kalender, Einkaufsliste
-- Ausgaben einfach verrechnen
-
-**Wie funktioniert das Punktesystem?**
-
-Beispiel:
+In vielen Apps können Sie Aufgaben mit Punkten bewerten. Zum Beispiel:
 - Treppenhaus putzen = 5 Punkte
 - Müll rausbringen = 2 Punkte
 - Hof kehren = 3 Punkte
 - Schnee räumen = 4 Punkte
 
-Am Ende des Monats: Jeder muss 20 Punkte haben!
+Am Ende des Monats sollte jeder eine bestimmte Punktzahl erreicht haben – zum Beispiel 20 Punkte. So sieht jeder auf einen Blick, wer wie viel beiträgt. Das sorgt für Fairness und Transparenz.
 
-**Vorteil:** Alle sehen, wer wie viel macht → Fair und gerecht!
+### Empfohlene Apps:
+
+**[Flatastic](https://www.flatastic-app.com/)** – Der Klassiker für Wohngemeinschaften. Die App bietet einen Putzplan mit Punktesystem, eine gemeinsame Einkaufsliste, Ausgabenverwaltung und vieles mehr. Die Grundversion ist kostenlos.
+
+**[Flatify](https://flatify-app.com/)** – Hier sammeln Sie Sterne für erledigte Aufgaben, ähnlich wie in einem Spiel. Motivierend und übersichtlich. Die App ist kostenlos für iOS und Android verfügbar.
+
+**[OurFlat](https://apps.apple.com/de/app/ourflat-wg-putzplan-app/id1530007409)** – Mit Belohnungssystem, Umfragen im Chat und automatischen Erinnerungen. Ebenfalls kostenlos.
+
+**[FlatUp!](https://flatup-app.de/)** – Komplett kostenlos und ohne Registrierung nutzbar. Bietet Putzplan, Kalender, Einkaufsliste und Ausgabenverwaltung.
 
 ---
 
 ## Zusammenfassung
 
-**Treppenhaus putzen:**
-- 1x pro Woche reicht normalerweise
-- Tag selbst wählen
+**Treppenhaus putzen:** Einmal pro Woche ist in der Regel ausreichend. Gemeinsam mit Ihren Nachbarn einen Plan erstellen.
 
-**Hof kehren:**
-- 1x pro Woche reicht normalerweise
-- Bei viel Laub öfter
+**Hof und Gehweg:** Regelmäßig kehren, je nach Bedarf etwa einmal wöchentlich.
 
-**Winterdienst (wichtig!):**
-- Werktags vor 7 Uhr räumen
-- Sonn-/Feiertags vor 9 Uhr räumen
-- Bei Dauerschnee mehrmals am Tag
-- Bürgersteig: Streusalz (wenn erlaubt)
-- Hof & Holztreppen: Nur Granulat/Sand/Splitt
-- **Sie haften bei Unfällen!**
-- Gemeinsamen Plan machen
+**Winterdienst:** An Werktagen vor 7 Uhr, an Sonn- und Feiertagen vor 9 Uhr räumen. Bei Dauerschnee mehrmals täglich. Auf dem Bürgersteig Streusalz (wenn erlaubt), auf Holztreppen nur Granulat oder Sand verwenden. Die Sicherheit aller hat oberste Priorität – organisieren Sie eine Vertretung, wenn Sie selbst nicht können.
 
-**Tipp:** Plan mit Nachbarn machen → Alle helfen → Niemand ist überfordert!
+**Gemeinsam organisieren:** Nutzen Sie Apps mit Punktesystem für eine faire Aufgabenteilung.
+
+Wenn alle zusammenhelfen, ist die Arbeit überschaubar und Ihre Hausgemeinschaft spart erhebliche Kosten, die sonst über die Nebenkosten auf alle umgelegt würden.
 
 ---
 
@@ -273,6 +152,7 @@ Am Ende des Monats: Jeder muss 20 Punkte haben!
 - [Stiftung Warentest: Winterdienst – wer schippen muss, wer haftet](https://www.test.de/Winterdienst-Wann-Mieter-und-Eigentuemer-Schnee-schippen-muessen-4780083-0/)
 - [Deutscher Mieterbund: Winterdienst bei Eis und Schnee](https://mieterbund.de/aktuelles/meldungen/winterdienst-bei-eis-und-schnee/)
 - [Immowelt: Schneeräumpflicht – wann, wo und wie oft](https://www.immowelt.de/ratgeber/wohnen/schneeraeumpflicht)
+- [Infranken: Strafen beim Winterdienst](https://www.infranken.de/ratgeber/haushalt-alltag/pflicht-zum-schneeraeumen-ignoriert-bussgeld-winterdienst-gehweg-streupflicht-art-4668272)
 
 **Streumittel:**
 - [Umweltbundesamt: Streumittel und Streusalz](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/streumittel-streusalz)
@@ -282,7 +162,7 @@ Am Ende des Monats: Jeder muss 20 Punkte haben!
 - [Vermieter1x1: Wer muss wann und wie das Treppenhaus reinigen](https://www.vermieter1x1.de/Fachinfo/Mietrecht-Wer-muss-wann-und-wie-das-Treppenhaus-reinigen.html)
 - [Fachanwalt.de: Treppenhausreinigung als Mieter](https://www.fachanwalt.de/magazin/mietrecht/treppenhausreinigung)
 
-**WG-Apps:**
+**Apps für Hausgemeinschaften:**
 - [Flatastic – Die App für jeden Haushalt](https://www.flatastic-app.com/)
 - [Flatify – Die neue WG- und Putzplan-App](https://flatify-app.com/)
 - [Unicum: Die besten WG-Apps im Überblick](https://www.unicum.de/wissenswertes/acht-wg-apps-fuer-einen-entspannten-wg-alltag)
